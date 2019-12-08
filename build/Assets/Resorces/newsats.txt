@@ -1,0 +1,2000 @@
+3Cat-1,500,97.4
+Aalto-1 ,517,97.45
+AAUSat-4,687,98.2
+ABS-2 (Koreasat-8,35,35
+ABS-2A,700,700
+ABS-3A ,788,803
+ABS-6 (ABS-1,159,777
+ABS-7 (Koreasat 3,35,35
+Advanced Orion 2 (Mentor,-26,560
+Advanced Orion 3 (Mentor,95.4,589
+Advanced Orion 4 (Mentor,44,714
+Advanced Orion 5 (Mentor,100.9,500
+Advanced Orion 6 (Mentor,60,771
+Advanced Orion 7 (Mentor,102.6,613
+AEHF-2 (Advanced Extremely High Frequency satellite-2,35,35
+AEHF-3 (Advanced Extremely High Frequency satellite-3,35,35
+AEHF-4 (Advanced Extremely High Frequency satellite-4,35,35
+Aeneas,790,0.02
+Aeolus,317,96.7
+Aerocube 11A (TOMSat Eagle Scout),511,85.03
+Aerocube 11B (TOMSat R3),511,85.3
+Aerocube 12A,487,51.6
+Aerocube 12B,487,51.6
+Aerocube 5C,802,64.78
+Aerocube 6A,700,97.98
+Aerocube 6B,700,97.98
+Aerocube 7A,802,64.6
+Aerocube 8A,700,55
+Aerocube 8B,700,55
+Aerocube 8C,585,98
+Aerocube 8D,584,98
+AIM (Aeronomy of Ice in Mesosphere),544,0.000578
+AISat-1,660,98.25
+AISSat-1 (Automatic Identification System Satellite-1),632,98
+AISSat-2 (Automatic Identification System Satellite-2),631,98.4
+AIST-1,599,0.00193
+AIST-2,558,0.00173
+AIST-2D,471,0.0011
+AISTechSat-2,592,97.8
+Al Yah-3,777,796
+ALBus (Advanced Electrical Bus),511,85.04
+Alcomsat (Algerian Communications Satellite),744,798
+ALE-1 (Astro Live Experiences 1),512,97.3
+Al-Farabi-2,589,97.7
+ALiCE��(AFIT LEO iMESA CNT E),886,120.3
+Alsat 2B,660,98.2
+Alsat-1B,704,98.2
+AlSat-1N,698,98.2
+Alsat-2A (Algeria Satellite 2A),674,98.1
+Altair-1 (Altair Pathfinder),404,51.6
+Amazonas-2,767,805
+Amazonas-3,781,791
+Amazonas-4A,784,795
+Amazonas-5,785,789
+AMC-1 (Americom 1,35,35
+AMC-10 (Americom-10,35,35
+AMC-11 (Americom-11,35,35
+AMC-15 (Americom-15),777,795
+AMC-16 (Americom-16),780,793
+AMC-18 (Americom 18),773,800
+AMC-2 (Americom 2,35,35
+AMC-21 (Americom 21),778,793
+AMC-4 (Americom-4,35,35
+AMC-6 (Americom-6,35,35
+AMC-7 (Americom-7,35,35
+AMC-8 (Americom-8,-139,773
+Amos 3,783,789
+Amos 4,633,796
+Amsat-Oscar 7 (AO-7),440,459
+Anik F1 ,35,35
+Anik F1R,35,35
+Anik F2 ,35,35
+Anik F3,35,35
+Anik G1,35,35
+AntelSat,612,0.00598
+Aoba-VELOX 4,513,97.3
+Aoxiang-1 (QB50,397,0.000812
+AprizeSat 1 (LatinSat-C),764,98
+AprizeSat 10 (exactView-13),733,97.9
+AprizeSat 2 (LatinSat-D),850,98.2
+AprizeSat 3 ,662,98.18
+AprizeSat 4 ,674,98.1
+AprizeSat 5,694,98.2
+AprizeSat 7,653,97.8
+AprizeSat 8 (exactView-12),669,97.8
+AprizeSat 9 (exactView-11),715,97.9
+Apstar 6,778,794
+Apstar 6C,783,790
+Apstar 7,864,874
+Apstar 9,782,788
+Arabsat 5C,766,805
+Arabsat 7F (Nimiq 1) ,778,794
+Arkyd-6A,505,97.5
+ArSat 1,778,795
+ArSat 2,786,801
+AsiaSat-3S (Asiasat 3SA),780,792
+AsiaSat-4 ,784,789
+AsiaSat-5,778,795
+AsiaSat-6 (Thaicom-7),783,793
+AsiaSat-7,782,793
+AsiaSat-8,781,793
+AsiaSat-9,783,790
+AsiaStar ,773,801
+ASNARO 1 (Advanced Satellite with New system Architecture for Observation),507,97.48
+ASNARO 2 (Advanced Satellite with New system Architecture for Observation),505,97.3
+ASTERIA ( (Arcsecond Space Telescope Enabling Research in Astrophysics),405,51.6
+Astra 1D ,776,795
+Astra 1F ,778,797
+Astra 1G ,780,791
+Astra 1H ,776,794
+Astra 1KR,766,807
+Astra 1L,772,798
+Astra 1M,804,852
+Astra 1N,715,780
+Astra 2A ,776,797
+Astra 2B ,772,801
+Astra 2C ,768,804
+Astra 2D,770,802
+Astra 2E,781,793
+Astra 2F,777,795
+Astra 2G,785,789
+Astra 3A ,770,804
+Astra 3B,768,806
+Astra 5B,787,793
+Astranis Demosat-2,505,97.5
+Astrocast 0.1,590,97.7
+Astrosat,649,5.99
+Athena-Fidus��(Access on THeatres for European Nations Allied forces - French Italian Dual Use Satellite),784,788
+Athenoxat-1 ((Athene Noctua Experimental Satellite) ,550,14.98
+Audacy Zero,591,97.7
+Aurora��(Tabletsat-2U-EO),618,97.99
+Azerspace 1/Africasat-1a,778,794
+Azerspace 2/Intelsat-38,750,750
+Badr 4 (Arabsat 4B),780,791
+Badr 5 (Arabsat 5B),834,883
+Badr 5A (Arabsat 5A),605,623
+Badr 6 (Arabsat 4AR),768,805
+Badr 7 (Arabsat 6B),768,817
+Bangabandhu 1 ,778,793
+BARS-M (Cosmos 2503),586,97.7
+BARS-M (Cosmos 2515),594,97.62
+Batsu CS1 (Irazu),392,51.6
+BeEagleSat (QB 50 - TR01),411,51.6
+BeeSat-1 (Berlin Experimental and Educational Satellite 1),718,98.3
+BeeSat-2 (Berlin Experimental and Educational Satellite 2),579,64.8
+Beidou 2-12 (Compass M3),460,595
+Beidou 2-13 (Compass M4),452,603
+Beidou 2-15 (Compass M6),477,574
+Beidou 2-16 (Compass G-6),775,799
+Beidou 2-17 (IGSO-6),676,890
+Beidou 2-18 (Compass G-7),776,794
+Beidou 3I-1S,796,781
+Beidou 3I-2S,606,953
+Beidou 3M1 (Beidou 24),506,549
+Beidou 3M1 (Beidou 25),541,549
+Beidou 3M-1S,520,549
+Beidou 3M-2S,521,550
+Beidou 3M-3S,524,532
+Beidou DW 26,514,541
+Beidou DW 27,516,539
+Beidou DW 28,508,547
+Beidou DW 29,504,551
+Beidou DW 30,521,533
+Beidou DW 31,542,191
+Beidou DW 32,691,876
+Beidou DW 33,509,545
+Beidou DW 34,516,538
+Beidou DW 35,514,540
+Beidou DW 36,518,537
+Beidou DW 37,533,193
+Beidou DW 38,513,541
+Beidou DW 39,541,195
+Beidou DW 40,537,195
+Beidou DW 41,776,795
+Beidou DW 42,523,194
+Beidou DW 43,531,194
+Beidou G1 (Compass G-1),768,803
+Beidou G3 (Compass G-3),774,797
+Beidou G4 (Compass G-4),764,809
+Beidou G5 (Compass G-11),776,799
+Beidou IGSO-1 (Compass G-5),670,893
+Beidou IGSO-2 (Compass G-7),717,817
+Beidou IGSO-3 (Compass G-8),693,872
+Beidou IGSO-4 (Compass G-9),708,879
+Beidou IGSO-5 (Compass G-10),708,864
+BeijinGalaxy-1 (Beijing 1 [Tsinghua],0,703
+Belintersat-1,779,792
+BGUSat (Ben Gurion University Satellite),506,97.5
+Bhutan-1 (Birds-2),409,51.6
+Bird 2 (Bispectral InfraRed Detector 2),521,97.9
+BIROS (Bispectral Infrared Optical System),517,97.5
+BisonSat (Nwist Qwiqway),801,64.78
+BKA 2 (BelKA 2),507,97.5
+BlackSky Global 1,500,97.5
+BlackSky Global 2,591,97.7
+BlackSky Pathfinder 1,701,98.2
+Blagovest-11L (Cosmos 2520),781,803
+Blagovest-12L (Cosmos 2526),779,794
+Blagovest-13L (Cosmos 2533),780,792
+BRAC ONNESHA (Bird BB),404,51.6
+Brazilsat B-4 (Brasilsat B-4),772,800
+BRIO ,591,97.7
+BRISat,702,876
+BRITE-CA-1 (BRITE Toronto),613,0.00894
+BRITE-PL-1 (BRIght-star Target Explorer - Poland,594,0.0205
+BRITE-PL-2 (BRIght-star Target Explorer - Poland,610,0.00164
+BSAT-3A,778,794
+BSAT-3B,66,725
+BSAT-3C/JCSat 110-R,784,787
+BSAT-4A,719,725
+Buccaneer RMM,819,97.6
+Bugsat-1 (Tita),617,97.99
+BulgariaSat-1,774,797
+Calipso (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation),703,98.2
+Can-X2 (Canadian Advanced Nanospace experiment),609,0.00143
+Can-X4,642,0.00121
+Can-X5,643,0.000926
+CanX-7,661,0.00284
+Capella-1 (Denali),591,97.7
+CartoSat 1 (IRS P5),619,97.9
+CartoSat 2 (IRS P7,632,0.000214
+CartoSat 2A,643,97.9
+CartoSat 2B,645,97.9
+CartoSat 2C,519,97.5
+CartoSat 2D,508,97.5
+CartoSat 2E,347,96.92
+CartoSat 2F,510,97.5
+Cassiope (CAScade SmallSat and Ionospheric Polar Explorer),1,0.0798
+CATSat-1,409,51.6
+CATSat-2,408,51.6
+CBAS-1 (USA 283,35,35
+CBERS 4 (China-Brazil Earth Resources Satellite 4),748,98.55
+CBNT-1 (Carbonite 1),658,98
+CBNT-2 (Carbonite 2),505,97.5
+CELTEE-1 (CubeSat Enhanced Locator Transponder Evaluation Experiment-1),586,97.98
+Centauri-1,500,97
+Centauri-2,591,97.7
+Centispace-1-S1,719,98.2
+CeReS (Compact Radiation belt Explorer),511,85.04
+CE-SAT-1 (Canon Electric Satellite 1),517,97.45
+CFESat (Cibola Flight Experiment Satellite),544,35.4
+CFOSat (China-France Oceanography Satellite),523,97.5
+Chandra X-Ray Observatory (CXO),999,825
+Chao Fenbianlu Duo Guangpu Chengxiang Weixing (Ultra-resolution multispectral imaging satellite),720,98.1
+CHOMPTT (CubeSat Handling Of Multisystem Precision Time Transfer),511,85.03
+Chuangxin 1-1 (Innovation 1-1,0,748
+Chuangxin 1-2 (Innovation 1-2),804,98.5
+Chuangxin 1-3 (Innovation 1-3),804,98.5
+Chuangxin 1-4 (Innovation 1-4),809,98.46
+Chuangxin-3,672,98.03
+ChubuSat 1 (Kinshachi-1),538,97.48
+ChubuSat 2 (Kinshachi-2),579,31
+ChubuSat 3 (Kinshachi-3),579,31
+Cicero-1,602,97.6
+Cicero-10 (Community Initiative for Cellular Earth Remote Observation-10),517,85
+Cicero-2,602,97.6
+Cicero-3,602,97.6
+Cicero-6  (Community Initiative for Cellular Earth Remote Observation-6),515,97.45
+Cicero-7 (Community Initiative for Cellular Earth Remote Observation-7),504,97.5
+Cicero-8 (Community Initiative for Cellular Earth Remote Observation-8),500,97.5
+Ciel-2,782,788
+CLIO (USA 257),736,854
+Cloudsat,703,98.2
+Compass-2 (QB50-DE04),513,97.45
+COMS-1 (Communication,35,35
+COMSATBw-1 (COmmunications SATellite f�r BundesWehr),773,799
+COMSATBw-2 (COmmunications SATellite f�r BundesWehr),780,794
+Condor E2 ,501,74.75
+Coriolis (Windsat),841,98.8
+Cosmos 2504,171,504
+Cosmos 2519 (Napryazhenie No. 1?),668,98
+Cosmos 2519 Subsatellite,676,97.9
+COSMO-Skymed 1 (Constellation of small Satellites for Mediterranean basin Observation),623,97.9
+COSMO-Skymed 2 (Constellation of small Satellites for Mediterranean basin Observation),623,97.9
+COSMO-Skymed 3 (Constellation of small Satellites for Mediterranean basin Observation),623,97.9
+COSMO-Skymed 4 (Constellation of small Satellites for Mediterranean basin Observation),623,97.9
+CP-10 (Exocube),657,99.1
+Cryosat-2 ,724,92
+CSIM-FD (Compact Spectral Irradiance Monitor - Flight Demonstration),590,97.7
+CSO-1 (Optical Space Component-1),800,98.6
+CSUNSAT-1 (California State University at Northridge Satellite),404,51.6
+Cubebug 2 (Manolito,0,715
+CubeRRT,407,51.6
+CubeSail USAT,511,85.04
+Cubesat XI-IV (Oscar 57,0,830
+CUSat-1 (Cornell University Satellite 1),326,465
+CXBN-2 (Cosmic X-Ray Background Nanosatellite-2),406,51.6
+CYGNSS FM01 (Cyclone Global Navigation Satellite System),537,34.96
+CYGNSS FM02 (Cyclone Global Navigation Satellite System),536,34.97
+CYGNSS FM03 (Cyclone Global Navigation Satellite System),533,34.96
+CYGNSS FM04 (Cyclone Global Navigation Satellite System),534,34.95
+CYGNSS FM05 (Cyclone Global Navigation Satellite System),537,34.96
+CYGNSS FM06 (Cyclone Global Navigation Satellite System),534,34.96
+CYGNSS FM07 (Cyclone Global Navigation Satellite System),534,34.96
+CYGNSS FM08 (Cyclone Global Navigation Satellite System),537,34.95
+Daichi-2 (Advanced Land Observing Satellite-2,630,0.000357
+DAMPE (Dark Matter Particle Explorer),505,97.3
+DAVE (Damping and Vibrations Experiment,447,0.00139
+DaVinci,511,85.03
+DCBB (Kaituo-1B,514,0.0016
+DebrisSat-2,403,56.1
+Deimos 1,662,98
+Deimos 2 ,619,97.99
+Delfi-C3 (DO-64),598,0.00129
+Delfini-1,408,51.6
+Dellingr,404,51.6
+DHFR (DARPA High Frequency Receiver),605,24.5
+Diamond Blue (3 Diamonds 1),496,0.00109
+Diamond Green (3 Diamonds 2),496,0.00109
+Diamond Red (3 Diamonds 3),496,0.00109
+Dido-2,508,97.5
+DirecTV-10,35,35
+DirecTV-11,35,35
+DirecTV-12,35,35
+DirecTV-14,35,35
+DirecTV-15,35,35
+DirecTV-4S ,35,35
+DirecTV-5 (Tempo 1),35,35
+DirecTV-7S ,35,35
+DirecTV-8,35,35
+DirecTV-9S,35,35
+Diwata-1 (PHL-Microsat-1),354,51.6
+Diwata-2B,0,616
+DLR Tubsat ,732,98.6
+DMC 3-1 (Disaster Monitoring Constellation),663,98
+DMC 3-2 (Disaster Monitoring Constellation),663,98
+DMC 3-3 (Disaster Monitoring Constellation),661,98
+DMSP 5D-2 F14 (Defense Meteorological Satellites Program,842,0.0009
+DMSP 5D-3 F15 (Defense Meteorological Satellites Program,837,0.00097
+DMSP 5D-3 F16 (Defense Meteorological Satellites Program,843,0.000623
+DMSP 5D-3 F17 (Defense Meteorological Satellites Program,842,0.0009
+DMSP 5D-3 F18 (Defense Meteorological Satellites Program,842,0.00118
+Dove 1c-1  (0 Flock 1C-1 0903),605,0.00115
+Dove 1c-10  (0 Flock 1C-10 090C),604,0.00122
+Dove 1c-11 (0 Flock 1C-11 090D),606,0.00115
+Dove 1c-2  (0 Flock 1C-2 0904),605,0.00129
+Dove 1c-3  (0 Flock 1C-3 0905),608,0.00115
+Dove 1c-4  (0 Flock 1C-4 0906),607,0.00107
+Dove 1c-5  (0 Flock 1C-5 0907),606,0.00136
+Dove 1c-6  (0 Flock 1C-6 0908),607,0.00107
+Dove 1c-7  (0 Flock 1C-7 0909),606,0.001
+Dove 1c-8  (0 Flock 1C-8 090A),607,0.00129
+Dove 1c-9  (0 Flock 1C-9 090B),607,0.00115
+Dove 2 (0505),549,0.000433
+Dove 2k-1 (0 Flock 2K-1 0F1A),461,0.0011
+Dove 2k-10 (0 Flock 2K-10 0F32),461,0.00102
+Dove 2k-11 (0 Flock 2K-11 0F33),461,0.00102
+Dove 2k-12 (0 Flock 2K-12 0F36),461,0.00102
+Dove 2k-13 (0 Flock 2K-13 0F37),461,0.00102
+Dove 2k-14 (0 Flock 2K-14 0F3B),461,0.00102
+Dove 2k-15 (0 Flock 2K-15 0F3C),461,0.00102
+Dove 2k-16 (0 Flock 2K-16 0F3D),461,0.00102
+Dove 2k-17 (0 Flock 2K-17 0F40),460,0.0011
+Dove 2k-18 (0 Flock 2K-18 0F44),461,0.00102
+Dove 2k-19 (0 Flock 2K-19 0F46),460,0.0011
+Dove 2k-2 (0 Flock 2K-2 0F1E),461,0.0011
+Dove 2k-20 (0 Flock 2K-20 0F47),460,0.0011
+Dove 2k-21 (0 Flock 2K-21 0F49),460,0.0011
+Dove 2k-22  (0 Flock  2K-22 0F4A),460,0.0011
+Dove 2k-23 (0 Flock 2K-23 0F4B),460,0.0011
+Dove 2k-24 (0 Flock 2K-24 0F4F),459,0.0011
+Dove 2k-25 (0 Flock 2K-25 0F4D),459,0.0011
+Dove 2k-26 (0 Flock 2K-26 0F53),459,0.0011
+Dove 2k-27 (0 Flock 2K-27 0F54),459,0.0011
+Dove 2k-28 (0 Flock 2K-28 1047),459,0.0011
+Dove 2k-29  (0 Flock 2K-29 1048),459,0.0011
+Dove 2k-3 (0 Flock 2K-3 0F21),461,0.0011
+Dove 2k-30 (0 Flock 2K-30 1049),459,0.0011
+Dove 2k-31 (0 Flock 2K-31 104A),459,0.0011
+Dove 2k-32 (0 Flock 2K-32  104B),458,0.00124
+Dove 2k-33 (0 Flock 2K-33 104C),458,0.00124
+Dove 2k-34 (0 Flock 2K-34 104D),458,0.00124
+Dove 2k-35 (0 Flock 2K-35 104E),458,0.00124
+Dove 2k-36 (0 Flock 2K-36 104F),458,0.00124
+Dove 2k-37 (0 Flock 2K-37 1050),458,0.00124
+Dove 2k-38 (0 Flock 2K-38 1051),458,0.00124
+Dove 2k-39 (0 Flock 2K-39 1052),458,0.00117
+Dove 2k-4 (0 Flock 2K-4 0F24),461,0.00102
+Dove 2k-40 (0 Flock 2K-40 1053),458,0.00117
+Dove 2k-41 (0 Flock 2K-41 1054),458,0.00117
+Dove 2k-43 (0 Flock 2K-43 1056),458,0.00117
+Dove 2k-44 (0 Flock 2K-44 1020),457,0.00124
+Dove 2k-45  (0 Flock 2K-45  100D),457,0.00124
+Dove 2k-46 (0 Flock 2K-46 103F),457,0.00124
+Dove 2k-47 (0 Flock 2K-47 1043),457,0.00124
+Dove 2k-48 (0 Flock 2K-48 101C),457,0.00124
+Dove 2k-5 (0  Flock 2K-5 0F29),461,0.00102
+Dove 2k-6 (0 Flock 2K-6 0F2A),461,0.00102
+Dove 2k-7 (0 Flock 2K-7 0F2B),461,0.00102
+Dove 2k-8 (0 Flock 2K-8 0F2D),461,0.00102
+Dove 2k-9 (0 Flock 2K-9 0F2E),461,0.00102
+Dove 2p-1 ( (0 Flock 2P-1 0E0D),500,0.000945
+Dove 2p-10 (0 Flock 2P-10 0E2F),500,0.000945
+Dove 2p-11 (0 Flock 2P-11 0E30),496,0.0016
+Dove 2p-12 (0 Flock 2P-12 0E3A),499,0.00109
+Dove 2p-2 (0 Flock 2P-2 (0e0E),499,0.00124
+Dove 2p-3 (0 Flock 2P-3 (0E0F),500,0.00102
+Dove 2p-4 (0 Flock 2P-4 0E14),499,0.00109
+Dove 2p-5 (0 Flock 2P-5 0E16),500,0.00102
+Dove 2p-6 (0 Flock 2P-6 0E19),500,0.00102
+Dove 2p-7 (0 Flock 2P-7 0E1F),500,0.00102
+Dove 2p-8 (0 Flock 2P-8 0E20),500,0.00102
+Dove 2p-9 (0 Flock 2P-9 0E26),500,0.00102
+Dove 3 (0177),594,0.0156
+Dove 3k-1 (0 Flock 3K-1 1062),480,0.00226
+Dove 3k-10 (0 Flock 3K-10 106d),480,0.00211
+Dove 3k-11 (0 Flock 3K-11 106e),480,0.00211
+Dove 3k-12 (0 Flock 3K-12 106f),480,0.00211
+Dove 3k-2 (0 Flock 3K-2 106c),479,0.00226
+Dove 3k-3 (0 Flock 3K-3 1068),479,0.00226
+Dove 3k-4 (0 Flock 3K-4 1063),479,0.00226
+Dove 3k-5 (0 Flock 3K-5 1067),480,0.00211
+Dove 3k-6 (0 Flock 3K-6 1069),480,0.00211
+Dove 3k-7 (0 Flock 3K-7 106a),480,0.00218
+Dove 3k-8 (0 Flock 3K-8 106b),480,0.00211
+Dove 3k-9 (0 Flock 3K-9 1065),480,0.00211
+Dove 3m-1 (0 Flock 3M-1 0F06),499,0.00182
+Dove 3m-2 (0 Flock 3M-2 0F02),500,0.00145
+Dove 3m-3 (0 Flock 3M-3 0F13),499,0.00174
+Dove 3m-4 (0 Flock 3M-4 0F4C),499,0.00167
+Dove 3p-1 (0 Flock 3P-1 1000),496,0.0008
+Dove 3p'-1 (0 Flock 3p'1 1100),493,0.000801
+Dove 3p-10 (0 Flock 3P-10 1022),496,0.000728
+Dove 3p-11 (0 Flock 3P-11 101F),496,0.000728
+Dove 3p-12 (0 Flock 3P-12 1010),496,0.000728
+Dove 3p-13 (0 Flock 3P-13 1016),495,0.00051
+Dove 3p-14 (0 Flock 3P-14 1018),494,0.000582
+Dove 3p-15  (0 Flock 3P-15 101D),495,0.00051
+Dove 3p-16 (0 Flock 3P-16 100E),494,0.000582
+Dove 3p-17 (0 Flock 3P-17 1023),496,0.0008
+Dove 3p-18 (0 Flock 3P-18  102B),496,0.0008
+Dove 3p-19 (0 Flock 3P-19 1024),496,0.0008
+Dove 3p-2 (0 Flock 3P-2 1001),496,0.000728
+Dove 3p'-2 (0 Flock 3p'2 1102),493,0.000801
+Dove 3p-20 (0 Flock 3P-20 1029),495,0.000437
+Dove 3p-21 (0 Flock 3P-21 102A),496,0.0008
+Dove 3p-22 (0 Flock 3P-22 1028),496,0.0008
+Dove 3p-23 (0 Flock 3P-23 1025),495,0.000801
+Dove 3p-24 (0 Flock 3P-24 1026),496,0.0008
+Dove 3p-25 (0 Flock 3P-25 102F),496,0.0008
+Dove 3p-26 (0 Flock 3P-26 102D),496,0.0008
+Dove 3p-27 (0 Flock 3P-27 1030),496,0.0008
+Dove 3p-28 (0 Flock 3P-28 102C),496,0.0008
+Dove 3p-29 (0 Flock 3P-29 1033),496,0.000873
+Dove 3p'-3  (0 Flock 3p'3 1105),495,0.000437
+Dove 3p-3 (0 Flock 3P-3 1002),496,0.000728
+Dove 3p-30 (0 Flock 3P-30 102E),496,0.000655
+Dove 3p-31 (0 Flock 3P-31 1032),494,0.000873
+Dove 3p-32 (0 Flock 3P-32 1035),495,0.000801
+Dove 3p-33 (0 Flock 3P-33 103C),495,0.000728
+Dove 3p-34 (0 Flock 3P-34 103B),496,0.000655
+Dove 3p-35 (0 Flock 3P-35 103D),496,0.000655
+Dove 3p-36 (0 Flock 3P-36 103A),496,0.000655
+Dove 3p-37 (0 Flock 3P-37 1037),497,0
+Dove 3p-38 (0 Flock 3P-38 1036),494,0.000728
+Dove 3p-39 (0 Flock 3P-39 103E,494,0.000582
+Dove 3p-4 (0 Flock 3P-4 1003),496,0.0008
+Dove 3p'-4 (0 Flock 3p'4 1107),492,0.000874
+Dove 3p-40 (0 Flock 3P-40 1039),494,0.000582
+Dove 3p-41 (0 Flock 3P-41 1031),405,0.00718
+Dove 3p-42 (0 Flock 3P-42 101E),494,0.000728
+Dove 3p-43 (0 Flock 3P-43 1041),495,0.000582
+Dove 3p-44 (0 Flock 3P-44 1019),494,0.000728
+Dove 3p-45 (0 Flock 3P-45 101A),495,0.000582
+Dove 3p-46 (0 Flock 3P-46 1011),494,0.000728
+Dove 3p-47 (0 Flock 3P-47 1027),494,0.000728
+Dove 3p-48 (0 Flock 3P-48 1042),495,0.000582
+Dove 3p-49 (0 Flock 3P-49 1038),495,0.000728
+Dove 3p-5 (0 Flock 3P-5 0F18),496,0.000728
+Dove 3p-50 (0 Flock 3P-50 1034),494,0.000801
+Dove 3p-51 (0 Flock 3P-51 1006),494,0.000728
+Dove 3p-52 (0 Flock 3P-52 1044),494,0.000801
+Dove 3p-53 (0 Flock 3P-53 1007),495,0.000582
+Dove 3p-54  (0 Flock 3P-54 1005),494,0.000582
+Dove 3p-55 (0 Flock 3P-55 1008),494,0.000582
+Dove 3p-56  (0 Flock 3P-46 100F),494,0.000582
+Dove 3p-57 (0 Flock 3P-57 1014),496,0.000728
+Dove 3p-58 (0 Flock 3P-58 1009),495,0.000801
+Dove 3p-59 (0  Flock 3P-59 1045),495,0.000801
+Dove 3p-6 (0 Flock 3P-6 0F35),496,0.000728
+Dove 3p-60 (0 Flock 3P-60 101B),496,0.000728
+Dove 3p-61 (0 Flock 3P-61 1012),494,0.000728
+Dove 3p-62 (0 Flock 3P-62 1046),494,0.000728
+Dove 3p-63 (0 Flock 3P-63 1015),494,0.000582
+Dove 3p-64 (0 Flock 3P-64  100A),494,0.000728
+Dove 3p-65 (0 Flock 3P-65 1040),494,0.000801
+Dove 3p-66 (0 Flock 3P-66 1013),495,0.000582
+Dove 3p-67 (0 Flock 3P-67 1017),495,0.000728
+Dove 3p-68 (0 Flock 3P-68 1004),495,0.000728
+Dove 3p-69 (0 Flock 3P-69 0F43),495,0.000801
+Dove 3p-7 (0 Flock 3P-7 100B),496,0.000728
+Dove 3p-70 (0 Flock 3P-70 0F15),495,0.000801
+Dove 3p-71 (0 Flock 3P-71 0F11),495,0.000801
+Dove 3p-72 (0 Flock 3P-72 0F10),495,0.000801
+Dove 3p-73 (0 Flock 3P-73  0F1B),496,0.000655
+Dove 3p-74 (0 Flock 3P-74 0F22),494,0.000873
+Dove 3p-75  (0 Flock 3P-75 0F12),495,0.000801
+Dove 3p-76 (0 Flock 3P-76 0F17),495,0.000801
+Dove 3p-77 (0 Flock 3P-77 0F28),495,0.000801
+Dove 3p-78  (0 Flock 3P-78 0F51),494,0.000946
+Dove 3p-79 (0 Flock 3P-79 0F52),496,0.000655
+Dove 3p-8  (0 Flock 3P-8  100C),496,0.000728
+Dove 3p-80 (0 Flock 3P-80 0F4E),496,0.000728
+Dove 3p-81 (0 Flock 3P-81 0F25),494,0.000873
+Dove 3p-82 (0 Flock 3P-82 0F41),494,0.000873
+Dove 3p-83 (0 Flock 3P-83 0F3F),494,0.000946
+Dove 3p-84 (0 Flock 3P-84 0F42),495,0.000801
+Dove 3p-85 (0 Flock 3P-85 0F1D),495,0.000728
+Dove 3p-86 (0 Flock 3P-86 0F34),495,0.000728
+Dove 3p-87  (0 Flock 3P-87 0F31),494,0.000873
+Dove 3p-88 (0 Flock 3P-88 0F38),495,0.000801
+Dove 3p-9 (0 Flock 3P-9 1021),496,0.000728
+Dove 3r-1 (0 Flock 3R-1 105A),476,0.00175
+Dove 3r-10 (0 Flock 3R-10 1059),476,0.00175
+Dove 3r-11 (0 Flock 3R-11 1064),476,0.00175
+Dove 3r-12 (0 Flock 3R-12 1066),476,0.00175
+Dove 3r-13 (0 Flock 3R-13 210B),476,0.00175
+Dove 3r-14 (0 Flock 3R-14 210C),476,0.00175
+Dove 3r-15 (0 Flock 3R-15 2107),476,0.00175
+Dove 3r-16 (0 Flock 3R-16 2152),476,0.00175
+Dove 3r-2 (0 Flock 3R-2 105B),476,0.00175
+Dove 3r-3 (0 Flock 3R-3 105D),476,0.00175
+Dove 3r-4 (0 Flock 3R-4 105E),476,0.00175
+Dove 3r-5 (0 Flock 3R-5 105F),476,0.00175
+Dove 3r-6 (0 Flock 3R-6 1057),476,0.00175
+Dove 3r-7 (0 Flock 3R-7 1058),476,0.00175
+Dove 3r-8 (0 Flock 3R-8 1060),476,0.00175
+Dove 3r-9 (0 Flock 3R-9 1061),476,0.00175
+Dove 3s-1 (0 Flock 3S-1 105C),574,0.00129
+Dove 3s-2 (0 Flock 3S-2 2151),572,0.00137
+Dove 3s-3 (0 Flock 3S-3 210D),573,0.00122
+Dove Pioneer (0F1C),288,0.0181
+DRTS (Data Relay Test Satellite,35,35
+DSCS III-A3 (USA 167,35,35
+DSCS III-B6 (USA 170,35,35
+DSCS III-F10 (USA 135,35,35
+DSCS III-F11 (USA 148,35,35
+DSCS III-F12 (USA 153,35,35
+DSCS III-F9 (USA 113,35,35
+DSP 18 (USA 130) (Defense Support Program),780,800
+DSP 20 (USA 149) (Defense Support Program),897,909
+DSP 21 (USA 159) (Defense Support Program),765,810
+DSP 22 (USA 176) (Defense Support Program),741,832
+D-Star ONE Sparrow,588,97.7
+DubaiSat-2,603,97.8
+Duchifat-1,623,97.97
+DX-1 (Dauria Experimental 1),636,98.4
+EAGLE (USA 284,35,35
+Eagle-1 (AMC-3,-87,777
+Eaglet-1,591,97.7
+EcAMSat (E. coli Anti Microbial Satellite),408,51.6
+Echostar 10,35,35
+Echostar 11,35,35
+Echostar 12 (Rainbow-1) ,35,35
+Echostar 14,35,35
+Echostar 15,35,35
+Echostar 16,35,35
+Echostar 17,35,35
+Echostar 18,35,35
+Echostar 19,35,35
+Echostar 21 (TerreStar 2),35,35
+Echostar 23,35,35
+Echostar 7 ,35,35
+Echostar G1 (ICO G1,-92.9,773
+EgyptSat-A ,657,98
+EKS-1 (Integrated Space System,0,606
+EKS-2 (Integrated Space System,0,650
+Electro-L1 (GOMS 2 [Geostationary Operational Meteorological Satellite 2],323,750
+Electro-L2 ,694,815
+ELFIN-A,469,93.04
+ELFIN-Star,465,93.02
+ELISA-E12 (ELectronic Intelligence by SAtellite),692,98.21
+ELISA-E24 (ELectronic Intelligence by SAtellite),692,98.21
+ELISA-W11 (ELectronic Intelligence by SAtellite),692,98.21
+ELISA-W23 (ELectronic Intelligence by SAtellite),692,98.21
+EMKA-1 (Cosmos  2525,315,0.000224
+Endurosat-One,405,51.6
+EOS-AM Terra ,703,98.2
+EOS-CHEM Aura ,703,98.2
+EOS-PM Aqua (Advanced Microwave Scanning Radiometer for EOS,701,0.000212
+EquiSat,407,51.6
+ERG (Exploration of Energization and Radiation in Geospace,460,200
+EROS B1 (Earth Resources Observation Satellite),508,0.000436
+ESEO (European Student Earth Orbiter),588,97.7
+Es'hail-2,788,798
+Eu:CROPIS (Euglena and Combined Regenerative Organic-Food Production in Space),591,97.7
+Eutelsat 10A (Eutelsat W-2A),781,822
+Eutelsat 113 West-A (Satmex 6),776,796
+Eutelsat 115 West-B,789,789
+Eutelsat 117 West A (Eutelsat 8 West C,35,35
+Eutelsat 117 West B (Satmex 9),779,795
+Eutelsat 12 West-A (Atlantic Bird 1) ,768,805
+Eutelsat 16A (Eutelsat W3C),779,795
+Eutelsat 172B,772,816
+Eutelsat 25B (Es�hail 1),725,767
+Eutelsat 33C (Eutelsat 28A,33,788
+Eutelsat 36A (Eutelsat W-4) ,766,806
+Eutelsat 36B (Eutelsat W-7),786,787
+Eutelsat 3B,782,791
+Eutelsat 48B (Eutelsat 21B,35,35
+Eutelsat 5 West-A (Atlantic Bird 3,35,35
+Eutelsat 65 West-A,776,796
+Eutelsat 7 West-A (Atlantic Bird 7),774,799
+Eutelsat 70B (Eutelsat W5A),780,800
+Eutelsat 7A (Eutelsat W3A) ,769,802
+Eutelsat 7B ,784,794
+Eutelsat 8 West A (Atlantic Bird 2) ,766,806
+Eutelsat 8 West B,773,814
+Eutelsat 9A (Eurobird 9A,35,35
+Eutelsat Hot Bird  13D (Eutelsat 3C,-0.1,766
+Eutelsat Hot Bird 13B (Hot Bird 8),759,812
+Eutelsat Hot Bird 13C (Hot Bird 9),786,787
+Eutelsat Hot Bird 13E (Eutelsat 9B),780,792
+Eutelsat KA-SAT 9A (KA-SAT),714,856
+exactView 1,821,99
+exactView 6 (AprizeSat 6),694,98.2
+exactView 9,649,6
+Ex-Alta 1 (QB50 - CA03),408,51.6
+eXCITE (eXperiment for Cellular Integration Technology),588,97.7
+Express AM22 (Sesat 2),781,790
+Express AMU1 (Eutelsat 36C),792,795
+Express-A1R (Express 4A,35,35
+Express-AM3,777,795
+Express-AM33,782,791
+Express-AM44,987,995
+Express-AM5,420,940
+Express-AM6,94,636
+Express-AM7,777,796
+Express-AM8,784,788
+Express-AT1,781,804
+Express-AT2,609,715
+ExSeedSat-1 (Vusat Oscar 96,572,0.00115
+FACSAT-1 ,500,97.5
+Falconsat-3,540,35.4
+Falconsat-6,591,97.7
+FAST 1 (Sara Lilly and Emma,627,0.00193
+Fengmaniu-1 (FMN-1),508,97.2
+Fengniao 1A (Hummingbird 1A),500,97.35
+Fengyun 2E (FY-2E),767,803
+Fengyun 2F (FY-2F),760,816
+Fengyun 2G (FY 2G),770,800
+Fengyun 2H (FY 2H),770,804
+Fengyun 3B (FY-3B),828,98.8
+Fengyun 3C (FY-3C),828,98.81
+Fengyun 3D (FY-3D),812,98.6
+Fengyun 4A (FY 4A),768,800
+Fermi Gamma-Ray Space Telescope (formerly GLAST),556,25.6
+FLP (Flying Laptop),606,97.6
+FLTSATCOM-8 (USA 46),745,829
+FormoSat-5,729,98.3
+FORT� (Fast On-orbit Recording of Transient Events),823,70
+Fox-1A (AO-85),802,64.78
+Fox-1Cliff (AO 95),591,97.7
+Fox-1D (AO-92),507,97.5
+FUNCube-1 (AO-73),683,97.8
+Galassia,549,14.98
+Galaxy-11,785,795
+Galaxy-12,775,796
+Galaxy-13 (Horizons 1,35,35
+Galaxy-14,776,795
+Galaxy-15,776,795
+Galaxy-16 ,775,798
+Galaxy-17,774,799
+Galaxy-18,774,798
+Galaxy-19,776,796
+Galaxy-25 (G-25,-93.1,771
+Galaxy-28 (G-28,-89,775
+Galaxy-3C,35,35
+Galileo FOC FM1 (0201,0,231
+Galileo FOC FM10 (0210,0,272
+Galileo FOC FM11 (0211,0,483
+Galileo FOC FM12 (0212,23,23
+Galileo FOC FM13 (0213,22,22
+Galileo FOC FM14 (0214,23,23
+Galileo FOC FM15 (0215,23,23
+Galileo FOC FM16 (0216,22,22
+Galileo FOC FM17 (0217,22,22
+Galileo FOC FM18 (0218,22,23
+Galileo FOC FM19 (0219,23,23
+Galileo FOC FM2 (0202,0,810
+Galileo FOC FM20 (0220,23,23
+Galileo FOC FM21 (0221,22,22
+Galileo FOC FM22 (0222,23,23
+Galileo FOC FM3 (0203,0,516
+Galileo FOC FM4 (0204,0,353
+Galileo FOC FM5 (0205,0,218
+Galileo FOC FM6 (0206,0,220
+Galileo FOC FM7 (0207,23,23
+Galileo FOC FM8 (0208,0,550
+Galileo FOC FM9 (0209,0,551
+Galileo IOV-1 FM2 (0102,23,23
+Galileo IOV-1 PFM (0101,23,23
+Galileo IOV-2 FM3 (0103,23,23
+Galileo IOV-2 FM4 (0104,23,23
+Gaofen 1,654,98.07
+Gaofen 11,689,97.4
+Gaofen 2,636,98.02
+Gaofen 3 ,759,98.4
+Gaofen 4,792,796
+Gaofen 8,492,97.3
+Gaofen 9,664,98.01
+Gaofen-1-02,0,642
+Gaofen-1-03,0,640
+Gaofen-1-04,0,642
+Gaofen-1-05,0,695
+Gaofen-1-06,0,647
+Garpun-1 (Cosmos 2473),782,790
+Garpun-12L (Cosmos 2513),783,805
+GATOSS (Global Air Traffic Awareness and Optimizing through Spaceborne Surveillance),819,97.7
+GCOM-C (Global Change Observation Mission Climate,790,0.00193
+GEARRSAT-2 (Globalstar Experiment And Risk Reduction Satellite),700,55
+Genesis-1,569,64.5
+Genesis-2,586,64.5
+GEO IK2 (Cosmos 2517),963,99.27
+GeoEye-1 (Orbview 5),686,98.1
+GEO-Kompsat-2A,783,787
+Geotail (Geomagnetic Tail Laboratory),551,451
+GHGSat-D (Greenhouse Gas Satellite - Demonstrator,0,512
+Global Change Observation Mission - 1 Water (GCOM-1,701,0.000212
+Globalstar M037 (Globalstar 16),411,417
+Globalstar M065 (Globalstar 65),411,416
+Globalstar M066 (Globalstar 66),412,415
+Globalstar M067 (Globalstar 67),413,414
+Globalstar M069 (Globalstar 69),411,416
+Globalstar M070 (Globalstar 70),412,415
+Globalstar M071 (Globalstar 71),412,415
+Globalstar M072 (Globalstar 72),412,416
+Globalstar M073 (Globalstar 73,1,1
+Globalstar M074 (Globalstar 74,1,1
+Globalstar M075 (Globalstar 75,1,1
+Globalstar M076 (Globalstar 76,1,1
+Globalstar M077 (Globalstar 77,1,1
+Globalstar M078 (Globalstar 95,1,1
+Globalstar M079 (Globalstar 79,1,1
+Globalstar M080 (Globalstar 80,1,1
+Globalstar M081 (Globalstar 81,1,1
+Globalstar M082 (Globalstar 82,1,1
+Globalstar M083 (Globalstar 83,1,1
+Globalstar M084 (Globalstar 84,1,1
+Globalstar M085 (Globalstar 85,1,1
+Globalstar M086 (Globalstar 86,1,1
+Globalstar M088 (Globalstar 88,1,1
+Globalstar M089 (Globalstar 89,1,1
+Globalstar M090 (Globalstar 90,1,1
+Globalstar M091 (Globalstar 91,1,1
+Globalstar M092 (Globalstar 92,1,1
+Globalstar M093 (Globalstar 87,1,1
+Globalstar M094 (Globalstar 93,1,1
+Globalstar M095 (Globalstar 96,1,1
+Globalstar M096 (Globalstar 94,1,1
+Globalstar M097 (Globalstar 78,1,1
+Glonass 701 (Glonass-K,19,19
+Glonass 702 (Glonass K,19,19
+Glonass 715 (Glonass 35-1,19,19
+Glonass 716 (Glonass 35-2,19,19
+Glonass 717 (Glonass 35-3,19,19
+Glonass 719 (Glonass 36-2,19,19
+Glonass 720 (Glonass 36-3,19,19
+Glonass 721 (Glonass 37-1,19,19
+Glonass 723 (Glonass 37-3,19,19
+Glonass 730 (Glonass 41-1,19,19
+Glonass 731 (Glonass 42-1,19,19
+Glonass 732 (Glonass 42-3,19,19
+Glonass 733 (Glonass 41-2,18,19
+Glonass 734 (Glonass 41-3,19,19
+Glonass 735 (Glonass 42-2,19,19
+Glonass 736 (Glonass 43-1,18,19
+Glonass 742 (Glonass-M,19,19
+Glonass 743 (Glonass 44-2,19,19
+Glonass 744 (Glonass 44-3,19,19
+Glonass 745 (Glonass 44-1,19,19
+Glonass 747 (Glonass-M,19,19
+Glonass 751 (Glonass-M,19,19
+Glonass 752 (Glomass-M,19,19
+Glonass 753 (Glonass-M,19,19
+Glonass 754 (Glonass-M,0,84
+Glonass 755 (Glonass-M,19,19
+Glonass 756 (Glonass-M,19,19
+Glonass 757 (Glonass-M,19,19
+GOES 13 (Geostationary Operational Environmental Satellite,35,35
+GOES 14 (Geostationary Operational Environmental Satellite,35,35
+GOES 15 (Geostationary Operational Ennvironmental Satellite,35,35
+GOES 16 (Geostationary Operational Environmental Satellite GOES-R),790,795
+GOES 17 (Geostationary Operational Environmental Satellite GOES-S),778,795
+G�kt�rk 1,683,98.1
+G�kt�rk 2,690,98.16
+GomX-4A,506,97.3
+GomX-4B,508,97.3
+Gonets M-03,478,510
+Gonets M-04,480,511
+Gonets M-05,497,510
+Gonets M-11 (Gonets M21),497,508
+Gonets M-12 (Gonets M22),494,506
+Gonets M-13 (Gonets M23),171,504
+Gonets M-14,482,507
+Gonets M-16,493,508
+Gonets M-17,494,509
+Gonets M-18,479,510
+Gonets M-19,480,512
+Gonets M-20,478,509
+GOSAT-2 (Greenhouse gases Observing Satellite-2; Ibuki-2),0,599
+GovSat-1,766,807
+GPM Core Observatory (Global Precipitation Measurement),409,65.02
+Grace Follow-on-1 (Gravity Recovery and Climate Experiment Follow-on-1),504,88.9
+Grace Follow-on-2 (Gravity Recovery and Climate Experiment Follow-on-2),504,88.9
+Greenhouse Gases Observing Satellite (Ibuki,668,0.000142
+GRIFEX (GEO-CAPE ROIC In-Flight Performance Experiment),659,99.1
+GRUS-1 ,582,97.7
+GSAT-10,777,795
+GSAT-11,775,798
+GSAT-12,761,811
+GSAT-14,763,810
+GSAT-15,782,805
+GSAT-16,776,798
+GSAT-17,757,817
+GSAT-18,775,812
+GSAT-19E,777,795
+GSAT-29,782,807
+GSAT-31,774,799
+GSAT-6 (Insat 4-E),775,775
+GSAT-7,757,814
+GSAT-7A,777,796
+GSAT-8,782,796
+GSSAP 1 (Geosynchronous Space Situational Awareness Program,35,35
+GSSAP 2 (Geosynchronous Space Situational Awareness Program,35,35
+GSSAP 3 (Geosynchronous Space Situational Awareness Program,35,35
+GSSAP 4 (Geosynchronous Space Situational Awareness Program,35,35
+Haiyang 1C (HY 1C),786,98.6
+Haiyang 2A (HY 2A),967,99.4
+Haiyang 2B (HY 2B),957,99.3
+HaloSat,407,51.6
+Hawk-A (HawkEye 360 Pathfinder 1),590,97.7
+Hawk-B (HawkEye 360 Pathfinder 2),590,97.7
+Hawk-C (HawkEye 360 Pathfinder 3),592,97.7
+HEAD-1 ,809,98.6
+Helios 2A ,683,98.1
+Helios 2B,682,98.1
+Hellas-Sat 2 (Intelsat K-TV,35,35
+Hellas-Sat 3/INMARSAT S EAN,685,788
+Hellas-Sat 4/SGS-1 (Saudi Geostationary Satellite 1),785,785
+HESSI (RHESSI,0,551
+Hiber-1,500,97.5
+Hiber-2,591,97.7
+Himawari 8,774,797
+Himawari 9,788,799
+Hinode (Solar B),696,98.1
+Hisaki (Sprint A,952,155
+Hispasat 1D ,764,809
+Hispasat 1E,782,786
+Hispasat 30W-6 (Hispasat 1F),786,788
+Hispasat 36W-1 (Hispasat AG1),783,791
+HJ-1A (Huan Jing 1A),665,97.8
+HJ-1B (Huan Jing 1B),673,97.8
+HJ-1C (Huan Jing 1C),438,97.33
+Hodoyoshi-1 ,525,97.48
+Hodoyoshi-3,666,97.98
+Hodoyoshi-4,650,97.99
+Hongyan-1 (Chongqing),90,98
+Hongyun-1 (Hongyun Gongcheng JYW),61,77
+Hoopoe (Duchifat-2,400,0.000222
+Horizons 2,85,777
+Horizons 3e,169,789
+Horyu-2 (High Voltage Technology Demonstration Satellite-2),669,98.2
+HSAT-1,500,97.4
+Hubble Space Telescope (HST,555,0.000289
+Huia'an (Zhou Enlai),547,97.5
+HXMT (Hard X-ray Modulation Telescope,536,0.000651
+HYLAS  4 (Highly Adaptable Satellite),35,35
+HYLAS 1 (Highly Adaptable Satellite),35,35
+HYLAS 2 (Highly Adaptable Satellite),35,35
+HySIS (Hyperspectral Imaging Satellite),648,98
+Icesat-2,468,93.02
+ICEYE-X1 (ICEYE POC 1),506,97.5
+ICEYE-X2 (ICEYE POC 2),587,97.7
+IGS Optical 5 (IGS-9B,511,0.000291
+IGS Optical 6 (IGS-10B,485,0.00102
+IGS Radar 5 (Information Gathering Satellite 10A),499,97.2
+IGS Radar 6 (Information Gathering Satellite 6,500,0
+IGS-5A (Information Gathering Satellite 5A,484,0.000583
+IGS-6A (Information Gathering Satellite 6A,588,0.000216
+IGS-7A (Information Gathering Satellite 7A,512,0.000145
+IGS-8A (Information Gathering Satellite 8A,509,0.000363
+IGS-8B (Information Gathering Satellite 8B,512,0.000799
+IGS-9A (Information Gathering Satellite 9A,510,0
+INMARSAT 3 F1 ,35,35
+INMARSAT 3 F2 ,35,35
+INMARSAT 3 F3 ,35,35
+INMARSAT 3 F5 ,35,35
+INMARSAT 4 F1,35,35
+INMARSAT 4 F2,35,35
+INMARSAT 4 F3,35,35
+INMARSAT 5 F1,35,35
+INMARSAT 5 F2,35,35
+INMARSAT 5 F3,35,35
+INMARSAT 5 F4,35,35
+INMARSAT IV-A F4 (Alphasat I-XL),35,35
+INNOSat-2 (Innovation Satellite-2),500,97.5
+INS-1A (ISRO Nano Satellite),508,97.5
+INS-1B (ISRO Nano Satellite),508,97.5
+INS-1C (ISRO Nano Satellite),508,97.5
+INSAT 3D (Indian National Satellite),782,791
+INSAT 3DR (Indian National Satellite),722,851
+INSAT 4A (Indian National Satellite),777,796
+INSAT 4B (Indian National Satellite),760,811
+INSAT 4CR (Indian National Satellite),782,791
+Integral (INTErnational Gamma-Ray Astrophysics Laboratory),292,833
+Intelsat 10 (PAS-10),776,796
+Intelsat 10-02 (Thor 4),783,789
+Intelsat 11 (PAS 11),778,795
+Intelsat 14 (IS-14),771,800
+Intelsat 15 (IS-15,35,35
+Intelsat 16 (IS-16),783,791
+Intelsat 17 (IS-17),770,804
+Intelsat 18 (IS-18),775,797
+Intelsat 19 (IS-19),768,801
+Intelsat 1R (IS-1R,-45,785
+Intelsat 20 (IS-20),780,790
+Intelsat 21 (IS-21),774,811
+Intelsat 22,781,792
+Intelsat 23,781,797
+Intelsat 25 (IS-25,328.5,778
+Intelsat 26 (JCSat R,50,779
+Intelsat 29E,785,788
+Intelsat 30/DLA 1,776,793
+Intelsat 31/DLA 2,580,860
+Intelsat 33 (IS-33),549,152
+Intelsat 34,777,811
+Intelsat 35E,778,794
+Intelsat 36 (IS-36),785,801
+Intelsat 37E (IS-37E),775,795
+Intelsat 5 (Arabsat 2C,-156.9,774
+Intelsat 805 ,775,797
+Intelsat 9 (IS-9,35,35
+Intelsat 901 ,775,798
+Intelsat 902 ,775,797
+Intelsat 903 ,773,802
+Intelsat 904 ,782,789
+Intelsat 905 ,768,805
+Intelsat 906 ,775,796
+Intelsat 907 ,770,803
+Intelsat New Dawn (Intelsat 28),800,892
+International Space Station (ISS [first element Zarya]),422,51.6
+Interstellar Boundary EXplorer (IBEX),200,679
+Iridium 45 (Iridium SV045),776,0.00021
+Iridium 54 (Iridium SV054),776,0.00021
+Iridium 61 (Iridium SV061),776,0.00021
+Iridium 96 (Iridium SV096),745,0.000632
+Iridium 97 (Iridium SV097),777,7E-05
+Iridium Next SV 102,609,0.000859
+Iridium Next SV 103,610,0.00093
+Iridium Next SV 104,608,0.001
+Iridium Next SV 105,608,0.001
+Iridium Next SV 106,701,0.000212
+Iridium Next SV 107,610,0.00114
+Iridium Next SV 108,608,0.001
+Iridium Next SV 109,610,0.000859
+Iridium Next SV 110,488,0.0165
+Iridium Next SV 111,607,0.00107
+Iridium Next SV 112,607,0.00107
+Iridium Next SV 113,607,0.00122
+Iridium Next SV 114,608,0.001
+Iridium Next SV 115,606,0.00122
+Iridium Next SV 116,611,0.00114
+Iridium Next SV 117,606,0.00122
+Iridium Next SV 118,608,0.00122
+Iridium Next SV 119,610,0.00114
+Iridium Next SV 120,607,0.00122
+Iridium Next SV 121,608,0.00122
+Iridium Next SV 122,611,0.00107
+Iridium Next SV 123,607,0.00122
+Iridium Next SV 124,608,0.00122
+Iridium Next SV 125,609,0.00122
+Iridium Next SV 126,606,0.00122
+Iridium Next SV 127,611,0.00107
+Iridium Next SV 128,609,0.00114
+Iridium Next SV 129,611,0.00107
+Iridium Next SV 130,611,0.00107
+Iridium Next SV 131,611,0.00107
+Iridium Next SV 132,609,0.00122
+Iridium Next SV 133,622,0.000929
+Iridium Next SV 134,610,0.00114
+Iridium Next SV 135,610,0.00114
+Iridium Next SV 136,609,0.00122
+Iridium Next SV 137,609,0.00122
+Iridium Next SV 138,609,0.00122
+Iridium Next SV 139,609,0.00122
+Iridium Next SV 140,607,0.00136
+Iridium Next SV 141,609,0.00114
+Iridium Next SV 142,608,0.00129
+Iridium Next SV 143,608,0.00129
+Iridium Next SV 144,606,0.00136
+Iridium Next SV 145,607,0.00136
+Iridium Next SV 146,608,0.00136
+Iridium Next SV 147,489,0.0161
+Iridium Next SV 148,606,0.00136
+Iridium Next SV 149,608,0.00129
+Iridium Next SV 150,606,0.00143
+Iridium Next SV 151,609,0.00114
+Iridium Next SV 152,493,0.0156
+Iridium Next SV 153,609,0.00114
+Iridium Next SV 154,608,0.001
+Iridium Next SV 155,608,0.001
+Iridium Next SV 156,607,0.00115
+Iridium Next SV 157,607,0.00136
+Iridium Next SV 158,609,0.001
+Iridium Next SV 159,607,0.00107
+Iridium Next SV 160,609,0.00107
+Iridium Next SV 161,489,0.0161
+Iridium Next SV 162,491,0.0161
+Iridium Next SV 163 ,607,0.00115
+Iridium Next SV 164,607,0.00115
+Iridium Next SV 165,609,0.001
+Iridium Next SV 166,609,0.001
+Iridium Next SV 167,612,0.00093
+Iridium Next SV 168,608,0.00129
+Iridium Next SV 169,609,0.00122
+Iridium Next SV 170,610,0.00114
+Iridium Next SV 171,609,0.00122
+Iridium Next SV 172,608,0.00129
+Iridium Next SV 173,608,0.00129
+Iridium Next SV 175,611,0.001
+Iridium Next SV 176,611,0.00107
+Iridium Next SV 180,611,0.00107
+IRIS (Interface Region Imaging Spectrometer),664,97.9
+IRNSS-1A (Indian Regional Navigation Satellite System),712,872
+IRNSS-1B (Indian Regional Navigation Satellite System),695,880
+IRNSS-1C (Indian Regional Navigation Satellite System),690,871
+IRNSS-1D (Indian Regional Navigation Satellite System),699,834
+IRNSS-1E (Indian Regional Navigation Satellite System),695,874
+IRNSS-1F (Indian Regional Navigation Satellite System),700,874
+IRNSS-1G (Indian Regional Navigation Satellite System),774,797
+IRNSS-1I (Indian Regional Navigation Satellite System),702,872
+IRS-P6 (Resourcesat-1) ,823,98.8
+Irvine-1,506,85
+iSat (D-Star ONE iSat),586,97.7
+ISX (Ionospheric Scintillation Explorer,489,0.00153
+ITASAT-1,592,97.7
+ITU-pSAT1 (Istanbul Technical University Picosat-1),721,98.4
+Jason 2 ,332,344
+Jason 3,301,324
+JCSat 10 (Japan Communications Satellite 10,35,35
+JCSat 13 (Japan Communications Satellite 13),780,791
+JCSat 14 (JCSat 2B,35,35
+JCSat 15,721,774
+JCSat 16 ,786,801
+JCSat 2A (JCSAT 8,35,35
+JCSat 4A (JCSAT 6,33,37
+JCSat 9 (JCSat 5A,35,35
+JCSat RA (JCSat 12,35,35
+Jiading-1 (OKW-01),504,97.4
+Jilin 1-10 (Guanpu 2),538,97.5
+Jilin 1-3 (Lingqiao 3),544,95.4
+Jilin 1-4 (Shipin 4),545,97.5
+Jilin 1-5 (Shipin 5),544,97.5
+Jilin 1-6 (Shipin 6),544,97.5
+Jilin 1-7 (Shipin 7),546,97.5
+Jilin 1-8 (Shipin 8),546,97.5
+Jilin 1-9 (Guanpu 1),538,97.5
+Jilin-1 (Lingqiao-A,639,0.00178
+Jilin-1 (Lingqiao-B,639,0.00171
+Jilin-1-1 (Optical A,638,0.00171
+Jugnu,866,20
+JYISat (JO 97),590,97.7
+Kaidun-1 (Caton-1),546,97.54
+Kaituo-1A (Xinyan-2),536,97.46
+Kalpana-1 (Metsat-1),783,789
+Kanopus-B�(Kanopus Vulcan 1)�,505,97.5
+Kanopus-V-IK-2,508,97.4
+Kanopus-V-IK-3,509,97.4
+Kanopus-V-IK-4,509,97.4
+Kanopus-V-IK-5,511,97.5
+Kanopus-V-IK-6,511,97.5
+KazEOSat-1 (Kazcosmos Earth Observation Satellite),754,98.53
+KazEOSat-2 (kazcosmos Earth Observation Satellite),636,97.99
+KazSat-2,786,788
+KazSat-3,784,789
+KazSciSat-1,588,97.7
+KazSTSAT (Kazakh Science and Technology Satellite),589,97.7
+Kent Ridge 1,551,14.98
+Kepler-2 CASE,500,97.4
+KestrelEye IIM,407,51.6
+KhalifaSat,616,97.8
+KIPP-1 ,547,97.5
+Kirameki 2 (DSN-2),764,810
+Kizuna (WINDS - Wideband InterNetworking engineering Demonstration Satellite),776,796
+KJSY-1 (Kongjian Shiyan-1),540,97.46
+KKS-1 (Kouku Kousen Satellite One,651,0.00114
+Kompsat-2 (Arirang 2,676,0.00156
+Kompsat-3 (Arirang 3,679,0.0012
+Kompsat-3A (Arirang 3A,522,0.0013
+Kompsat-5 (Arirang 5,535,0.00123
+Kondor (Cosmos 2487),501,74.73
+Koreasat 5 (Mugungwha 5),780,792
+Koreasat 5A (Mugungwha 5A),787,799
+Koreasat 6 (Mugungwha 6),780,794
+Koreasat 7 (Mugungwha 7),781,791
+Lacrosse/Onyx 3 (Lacrosse-3,671,0.000284
+Lacrosse/Onyx 4 (Lacrosse-4,574,0.00729
+Lacrosse/Onyx 5 (Lacrosse-5,0,716
+Ladybird 1 (Piao chong 1),549,97.6
+Ladybird 2 (Piao chong 2),549,97.6
+Ladybird 3 (Piao chong 3),550,97.6
+Ladybird 4 (Piao chong 4),549,97.6
+Ladybird 5 (Piao chong 5),549,97.6
+Ladybird 6 (Piao chong 6),549,97.6
+Ladybird 7 (Piao chong 7),549,97.6
+Landmapper BC3.v2 ,502,97.5
+Landmapper BC4,590,97.7
+Landsat 7 ,703,98.2
+Landsat 8,705,98.2
+LaoSat-1,788,800
+LAPAN A2,650,6
+LAPAN A3,517,97.5
+LAPAN-Tubsat (LAPAN A1),637,97.7
+LatinSat A,668,64.6
+LatinSat B ,717,64.6
+Lemur-1,697,97.98
+Lemur-2 Alexander (Lemur 2F80),480,0.000438
+Lemur-2 Chris (Lemur 2F4),635,0.000998
+Lemur-2 Jeroen (Lemur 2F3),635,0.000998
+Lemur-2 Joel (Lemur 2F1),629,0.00143
+Lemur-2 Peter (Lemur 2F2),634,0.00114
+Lemur-2-AndiS (Lemur 2F47),586,0.000862
+Lemur-2-Angela (Lemur 2F31),476,0.00102
+Lemur-2-Anubhavthakur (Lemur 2F16),498,0.000655
+Lemur-2-ArtFischer (Lemur 2F43),585,0.00115
+Lemur-2-BrianDavie (Lemur 2F52),449,0.000366
+Lemur-2-BrownCow (Lemur 2F71),493,0.000801
+Lemur-2-Chanusiak (Lemur 2F83),495,0.00145
+Lemur-2-ChristinaHolt (Lemur 2F90) ,570,0.00108
+Lemur-2-DaisyHarper (Lemur 2F95),569,0.0013
+Lemur-2-DaveWilson (Lemur 2F69),495,0.00051
+Lemur-2-Dembitz (Lemur 2F49),586,0.000718
+Lemur-2-Duly (Lemur 2F87),479,0.00197
+Lemur-2-Dunlop (Lemur 2F57),451,7.33E-05
+Lemur-2-Furiaus (Lemur 2F45),584,0.00122
+Lemur-2-Greenberg (Lemur 2F42),585,0.00122
+Lemur-2-Gustavo (Lemur 2F89),570,0.00108
+Lemur-2-JennnyBarna (Lemur 2F30),476,0.00102
+Lemur-2-Jin-Luen (Lemur 2F76),571,0.00129
+Lemur-2-Jobanputra (Lemur 2-F22),496,0.0008
+Lemur-2-Kadi (Lemur 2F74),571,0.00122
+Lemur-2-Kevin (Lemur 2F51),450,0.000366
+Lemur-2-Kobyszcze (Lemur 2F86),476,0.00175
+Lemur-2-KungFoo (Lemur 2F37),496,0.00102
+Lemur-2-Lisasaurus (Lemur 2F40),496,0.000873
+Lemur-2-Liu-Poh-Chun (Lemur 2F55),451,0.00022
+Lemur-2-LucyBryce (Lemur 2F36),496,0.00109
+Lemur-2-Lynsey-Symo (Lemur 2F41),496,0.000873
+Lemur-2-Marshall (Lemur 2F73),494,0.00291
+Lemur-2-McCafferty  (Lemur 2F70),493,0.000801
+Lemur-2-McCullagh (Lemur 2F56),451,0.00022
+Lemur-2-McPeake (Lemur 2F38),496,0.00102
+Lemur-2-Mia-Grace (Lemur 2F27),496,0.0008
+Lemur-2-Monson (Lemur 2F44),585,0.00115
+Lemur-2-NatalieMurray (Lemur 2F94),570,0.00108
+Lemur-2-NoguesCorreig (Lemur 2F28),496,0.0008
+Lemur-2-Orzulak (Lemur 2F84),476,0.00175
+Lemur-2-PeterG (Lemur 2F48),586,0.000718
+Lemur-2-PeterWebster (Lemur 2F68),493,0.000801
+Lemur-2-Rdeaton (Lemur 2-F25),496,0.0008
+Lemur-2-RemyColton (Lemur 2F88),570,0.00108
+Lemur-2-RobMoore (Lemur 2F33),477,0.000876
+Lemur-2-RocketJonah (Lemur 2F54),451,0.00022
+Lemur-2-RomaCoste (Lemur 2F53),451,0.000293
+Lemur-2-Sam-Amelia (Lemur 2F39),496,0.000946
+Lemur-2-SarahBettyBoo (Lemur 2F93),569,0.00108
+Lemur-2-Satchmo (Lemur 2-F24),496,0.0008
+Lemur-2-ShainaJohl (Lemur 2F34),496,0.00109
+Lemur-2-Smita-Sharad (Lemur 2-F26),496,0.0008
+Lemur-2-Sokolsky (Lemur 2-F14),498,0.000655
+Lemur-2-Spire-Minions (Lemur 2F23),496,0.0008
+Lemur-2-SpiroVision (Lemur 2F32),476,0.00102
+Lemur-2-Tachikoma (Lemur 2F29),496,0.0008
+Lemur-2-Tallhamn-ATC (Lemur 2F72),492,0.00291
+Lemur-2-TheNickMolo (Lemur 2F75),571,0.00122
+Lemur-2-TinyKev (Lemur 2F92) ,569,0.00108
+Lemur-2-TomHenderson (Lemur 2F78),480,0.000438
+Lemur-2-UramChanSol (Lemur 2F77),571,0.00129
+Lemur-2-Vladimir (Lemur 2F85),476,0.00175
+Lemur-2-Vu (Lemur 2F81),480,0.000438
+Lemur-2-Wingo (Lemur 2-F17),498,0.000655
+Lemur-2-Xiaoqing (Lemur 2F15),498,0.000655
+Lemur-2-XueniTerence (Lemur 2F35),496,0.00109
+Lemur-2-YongLin (Lemur 2F50),450,0.000147
+Lemur-2-Yuasa (Lemur 2F79),480,0.000438
+Lemur-2-Zachary (Lemur 2F46),587,0.000718
+Lemur-2-Zo (Lemur 2F91),569,0.00108
+Lemur-2-Zupanski (Lemur 2F82),495,0.00723
+LEO Vantage 1,0,506
+LilacSat-2 (CAS-3H,520,0.00152
+Ling Qiao,808,98.47
+Lingque 1A,539,97.5
+Lituanicasat-2 (QB50 LT01),512,97.45
+LKW-1 (Land Exploration Satellite 1),502,97.4
+LKW-2 (Land Exploration Satellite 2),502,97.4
+LKW-3 (Land Exploration Satellite 3),503,97.3
+LKW-4 (Land Exploration Satellite 4),502,97.3
+Lotos-S1 (Cosmos 2455),911,67.2
+Lotos-S1 (Cosmos 2524),916,67.1
+Lotos-S1 (Cosmos 2528),900,67.1
+Lotos-S2 (Cosmos 2502),910,67.15
+LQSat (Lingqiao Satellite,640,0.00164
+Luch 5A,778,793
+Luch 5B,772,801
+Luch 5V,767,802
+Luch/Olympus,781,793
+Lume-1,513,97.3
+Luojia 1,647,98
+M3MSat (Maritime Monitoring and Messaging Microsatellite),515,97.5
+MakerSat 0,817,97.6
+Maroc Tubsat ,1,0.00204
+Maya-1 (Birds-2),409,51.6
+Mazaalai (Bird MM),410,51.6
+M-Cubed/E1P-U2 (Michigan Multipurpose Minisat; Explorer 1 Prime - Unit 2 -  HRBE [William A. Hiscock Radiation Belt Explorer]),724,101.7
+Measat 3 (Malaysia East Asia Sat 3),778,794
+Measat 3A (Malaysia East Asia Sat 3A),728,788
+Measat 3B (Malaysia East Asia Sat 3B),772,802
+Megha-Tropiques,868,20
+Merah Putih (Telkom 4),789,797
+Mercury 1 (Advanced Vortex 1,35,35
+Mercury 2 (Advanced Vortex 2,33,37
+Mercury 3 (NROL 67,35,35
+Meridian-3,253,105
+Meridian-4,722,637
+Meridian-6 (Meridian 16L),494,860
+Meridian-7 (Meridian 17L),39,0.724
+Meteor-M N-2,828,98.81
+Meteosat 10 (MSGalaxy-3,35,35
+Meteosat 11 (MSG 4),791,795
+Meteosat 8 (MSGalaxy-1,35,35
+Meteosat 9 (MSGalaxy-2,35,35
+MetOp-A (Meteorological Operational satellite),821,98.7
+MetOp-B (Meteorological Operational satellite),822,98.7
+MetOp-C (Meteorological Operational satellite),829,98.7
+Mexsat-3 (Mexsat Bicentenario),784,791
+Mexsat3 (Morelos-3),767,805
+MicroDragon,511,97.3
+MicroMAS-2A (Micro-sized Microwave Atmospheric Satellite),505,97.5
+Microsat-TD,368,97.2
+MICROSCOPE (MICRO-Satellite � tra�n�e Compens�e pour l'Observation du Principe d'Equivalence),715,98.23
+Mikhailo Lomonosov (MVL-300),487,97.27
+Milstar DFS-1 (USA 99,35,35
+Milstar DFS-4 (USA 157,35,35
+Milstar DFS-5 (USA 164,35,35
+Milstar DFS-6 (USA 169) (Military Strategic and Tactical Relay),768,806
+MINXSS-2 (Miniature X-Ray Solar Spectrometer-2),573,0.00115
+MiRaTA (Microwave Radiometer Technology Acceleration),818,97.6
+MMS-1 (Magnetospheric Multiscale Mission),375,9
+MMS-2 (Magnetospheric Multiscale Mission),357,117
+MMS-3 (Magnetospheric Multiscale Mission),429,45
+MMS-4 (Magnetospheric Multiscale Mission),317,157
+Mohammed VI-A ,638,97.9
+Mohammed VI-B ,606,98
+MOST (Microvariability & Oscillations of STars),832,98.7
+MOVE II (Munich Orbital Verification Experiment II),590,97.7
+Mozhayets 4 (RS-22),690,97.8
+MSAT 1 ,763,809
+MSAT 2 (AMSC-1,35,35
+MTI (Multispectral Thermal Imager),478,97.47
+MTSAT-2 (Multi-Functional Transport Satellite),776,797
+MUOS-1 (Mobile User Objective System 1),569,6
+MUOS-2 (Mobile User Objective System 2),550,23
+MUOS-3 (Mobile User Objective System 3),576,998
+MUOS-4 (Mobile User Objective System 4),576,997
+MUOS-5 (Mobile User Objective System 5),576,998
+Mycroft (USA 285),288,288
+NanoACE,486,0.00839
+Nanosat-1,659,98.4
+Nanosat-1B,672,98.1
+Navstar GPS IIF-1 (Navstar SVN 62,0,188
+Navstar GPS IIF-10 (Navstar SVN 72,0,446
+Navstar GPS IIF-11 (Navstar SVN 73,0,426
+Navstar GPS IIF-12 (Navstar SVN 70,0,175
+Navstar GPS IIF-2 (Navstar SVN 63,0,451
+Navstar GPS IIF-3 (Navstar SVN 65,0,174
+Navstar GPS IIF-4 (Navstar SVN 66,0,184
+Navstar GPS IIF-5 (Navstar SVN 64,0,457
+Navstar GPS IIF-6 (Navstar SVN 67,0,174
+Navstar GPS IIF-7 (Navstar SVN 68,0,471
+Navstar GPS IIF-8 (Navstar SVN 69,0,155
+Navstar GPS IIF-9 (Navstar SVN 71,0,445
+Navstar GPS III-1 (Navstar SVN 74,0,171
+Navstar GPS IIR-10 (Navstar SVN 47,0,963
+Navstar GPS IIR-11 (Navstar SVN 59,0,89
+Navstar GPS IIR-12 (Navstar SVN 60,0,72
+Navstar GPS IIR-13 (Navstar SVN 61,0,938
+Navstar GPS IIR-2 (Navstar SVN 43,0,123
+Navstar GPS IIR-3 (Navstar SVN 46,0,96
+Navstar GPS IIR-4 (Navstar SVN 51,0,133
+Navstar GPS IIR-5 (Navstar SVN 44,0,184
+Navstar GPS IIR-6 (Navstar SVN 41,0,177
+Navstar GPS IIR-7 (Navstar SVN 54,0,104
+Navstar GPS IIR-8 (Navstar SVN 56,0,155
+Navstar GPS IIR-9 (Navstar SVN 45,0,63
+Navstar GPS IIR-M-1 (Navstar SVN 53,0,142
+Navstar GPS IIR-M-2 (Navstar SVN 52,0,20
+Navstar GPS IIR-M-3 (Navstar SVN 58,0,206
+Navstar GPS IIR-M-4 (Navstar SVN 55,0,149
+Navstar GPS IIR-M-5 (Navstar SVN 57,0,150
+Navstar GPS IIR-M-6 (Navstar SVN 48,0,135
+Navstar GPS IIR-M-8 (Navstar SVN 50,0,160
+Naxing 2,540,97.45
+Nayif-1 (Emirates Oscar 88,496,0.0008
+NEOSSat�(Near Earth Object Surveillance Satellite),786,98.6
+NextSat-1,588,97.7
+Nexus (Fuji-Oscar-99),512,97.3
+NigComSat-1R,793,795
+NigeriaEduSat-1 (BIRD NN),410,51.6
+NigeriaSat-2,705,98.2
+Nigeriasat-X,696,98.2
+Nilesat 201,795,813
+Nimiq 2 ,35,35
+Nimiq 4,35,35
+Nimiq 5,700,700
+Nimiq 6,35,35
+NIUSat (Noorul Islam University Satellite),517,97.4
+NJUST-1 (QB50 - CN03),408,51.6
+NMTSat (New Mexico Tech Satellite),510,85.04
+NOAA-15 (NOAA-K),816,98.7
+NOAA-18 (NOAA-N,843,0.00145
+NOAA-19 (NOAA-N Prime,845,0.00131
+NOAA-20 (JPSS-1),819,98.7
+NorSat-1,605,97.6
+NorSat-2,605,97.6
+NovaSAR-1,600,97.8
+NPP (National Polar-orbiting Operational Environmental Satellite System [NPOESS]),827,98.7
+NROL-76 (USA 276),300,51
+Nsight-1 (QB50 - AZ02),406,51.6
+NSS-11 (Worldsat-1,108.2,776
+NSS-12,779,793
+NSS-5 (Intelsat 803),776,796
+NSS-6 ,776,797
+NSS-7 ,775,798
+NSS-9,784,792
+N-Star C ,772,799
+NUDT Phonesat (National University of Defense Technology Phone Satellite,516,0.00145
+NUDTSat (National University of Defense Satellite,497,0.00131
+Nusantara Satu,777,798
+�uSat-1 (Fresco),499,97.5
+�uSat-2 (Batata),500,97.5
+�uSat-3 (Milanesat),545,43.02
+�uSat-4 (Ada),503,97.2
+�uSat-5 (Maryam),507,97.2
+NuSTAR (Nuclear Spectroscopic Telescope Array),632,6
+O/OREOS (Organism/Organic Exposure to Orbital Stresses,624,0.00214
+O3b FM02,63,69
+O3b FM03,60,71
+O3b FM04,62,69
+O3b FM05 (Other 3 Billion),64,68
+O3b FM06,831,845
+O3b FM07,827,844
+O3b FM08,815,842
+O3b FM09,63,68
+O3b FM10,63,69
+O3b FM11,63,69
+O3b FM12,63,69
+O3b FM13,62,69
+O3b FM14,62,69
+O3b FM15,62,69
+O3b FM16,62,69
+O3b PFM,63,69
+OCO 2��(Orbiting Carbon Observatory),704,98.2
+Odin ,573,97.6
+Ofeq 10,601,140.94
+Ofeq 11,608,142
+Ofeq 5 ,764,143.4
+Ofeq 7,576,141.76
+Ofeq 9,589,141.78
+OneWeb-0006,1019,87.8
+OneWeb-0007,1020,87.8
+OneWeb-0008,1021,87.8
+OneWeb-0010,1021,87.8
+OneWeb-0011,1017,87.8
+OneWeb-0012,1023,87.8
+OPTOS,797,97.8
+Optsat-3000,453,97.2
+Optus 10,772,802
+Optus and Defence C1 ,773,799
+Optus D1 ,774,797
+Optus D2,774,799
+Optus D3,775,795
+ORBCOMM FM-10 (ORBCOMM A2),776,45
+ORBCOMM FM-11 (ORBCOMM A3),777,45
+ORBCOMM FM-12 (ORBCOMM A4),776,45
+ORBCOMM FM-13 (ORBCOMM B1),795,45
+ORBCOMM FM-14 (ORBCOMM B2),794,45
+ORBCOMM FM-15 (ORBCOMM B3),795,45
+ORBCOMM FM-18 (ORBCOMM B6),796,45
+ORBCOMM FM-19 (ORBCOMM B7),795,45
+ORBCOMM FM-20 (ORBCOMM B8),792,45
+ORBCOMM FM-21 (ORBCOMM C1),822,45
+ORBCOMM FM-23 (ORBCOMM C3),794,45
+ORBCOMM FM-27 (ORBCOMM C7),792,45
+ORBCOMM FM-30 (ORBCOMM D2),796,45
+ORBCOMM FM-31 (ORBCOMM D3),795,45
+ORBCOMM FM-32 (ORBCOMM D4),796,45
+ORBCOMM FM-35 (ORBCOMM D7),795,45
+ORBCOMM FM-36 (ORBCOMM D8),795,45
+ORBCOMM FM-4 (ORBCOMM G2),838,108
+ORBCOMM FM-5 (ORBCOMM A6),774,45
+ORBCOMM FM-6 (ORBCOMM A7),774,45
+ORBCOMM FM-7 (ORBCOMM A8),774,45
+ORBCOMM FM-8 (ORBCOMM A1),778,45
+ORBCOMM FM-9 (ORBCOMM A5),777,45
+ORBCOMM OG2 FM-103,741,47
+ORBCOMM OG2 FM-107,739,47
+ORBCOMM OG2 FM-108,657,47
+ORBCOMM OG2 FM-109,739,47
+ORBCOMM OG2 FM-110,658,47
+ORBCOMM OG2 FM-112,657,47
+ORBCOMM OG2 FM-113,656,47
+ORBCOMM OG2 FM-114,658,47
+ORBCOMM OG2 FM-115,655,47
+ORBCOMM OG2 FM-116,654,47
+ORBCOMM OG2 FM-117,656,47
+ORBCOMM OG2 FM-118,658,47
+Orbweaver-1,587,97.7
+Orbweaver-2,592,97.7
+OrigamiSat (Fuji-Oscar-98),512,97.3
+ORS-5 (Operationally Responsive Space-5,599,0.000359
+OVS-2,511,97.4
+Paksat-1R ,786,800
+PakTES-1a,628,98
+Palapa D1,780,792
+ParkinsonSat-1,700,55
+Parus-95 (Cosmos 2407),1,0.00401
+Parus-96 (Cosmos 2414),968,83
+Parus-99 (Cosmos 2463),1,0.00367
+Pathfinder II (Sirion,574,0.00129
+Paz,518,97.4
+PCSat (Prototype Communications SATellite,0,796
+PEASSS (PiezoElectric Assisted Small Satellite),504,97.5
+Perseus M1,625,97.99
+Perseus M2,624,97.99
+Persona-2 (Cosmos 2486),733,98.3
+Persona-3 (Cosmos 2506),725,98.5
+PeruSat-1,705,98.2
+Phoenix (QB50 - TW01),403,51.6
+PicSat,505,97.5
+PISAT ,704,98.2
+Polar Scout A (Polar Scout 1,0,591
+Polar Scout B (Polar Scout 2,0,591
+PolyITAN-1,626,97.99
+PRISMA (PRecursore IperSpettrale della Missione Applicativa),625,97.9
+Proba 1 (Project for On-Board Autonomy),676,97.9
+Proba 2 (Project for On-Board Autonomy),728,98.3
+Proba 5 (Project for On-Board Autonomy),820,98.73
+Prometheus 2.1 ,586,97.99
+Prometheus 2.3,601,24.5
+PropCube-1 (PropCube Merryweather),800,64.78
+PropCube-3 (PropCube Flora),800,64.78
+Proxima-1,515,85
+Proxima-2,515,85
+PRSS-1 (Pakistan Remote Sensing Satellite-1),624,98
+Pujiang-1,486,97.31
+PWSat-2,591,97.7
+QB50P1�(EO 79),621,97.98
+Qsat-EOS (KYUshu SATellite - Earth Observation System),553,97.47
+Quantum Science Satellite (QSS,0,509
+QuetzSat-1,774,798
+QZS-1 (Quazi-Zenith Satellite System,32,38
+QZS-2 (Quazi-Zenith Satellite System,32,38
+QZS-3 (Quazi-Zenith Satellite System,35,35
+QZS-4 (Quazi-Zenith Satellite System,32,38
+R3D2 (Radio Frequency Risk Reduction Deployment Demonstration),437,40
+Radarsat-2 ,793,98.6
+RadFxSat,817,97.6
+Radix,406,51.6
+Raduga 1-8 (Raduga 1-M1,35,35
+Raduga 1-M2 (Raduga 1-9),784,788
+Raduga 1-M3 ,777,797
+RainCube (Radar In a Cubesat,0,407
+RANGE-A (Ranging and Nanosatellite Guidance Experiment),590,97.7
+RANGE-B (Ranging and Nanosatellite Guidance Experiment),588,97.7
+Rapid Pathfinder Program (NROL-66,1,1
+RapidEye-1 (RapidEye-C),646,97.9
+RapidEye-2 (RapidEye A),638,97.9
+RapidEye-3 (RapidEye D),637,97.9
+RapidEye-4 (RapidEye E),638,97.9
+RapidEye-5 (RapidEye B),642,97.9
+RAPIS-1 (RAPid Innovative payload demonstration Satellite 1),510,97.3
+RASAT,697,98.2
+Rascom-QAF 1R,786,787
+RAVAN (Radiometer Assessment using Vertically Aligned Nanotubes),583,97.96
+Reaktor Hello World,500,97.5
+Reimei (Innovative Technology Demonstration Experiment Satellite - INDEX),638,98
+Relek (ICA-FC1),819,98.38
+RemoveDebris (RemDeb),410,51.6
+Resourcesat 2 (exactView-2),823,98.7
+Resourcesat-2A,831,98.7
+Resurs-P1,472,97.2
+Resurs-P2,472,97.29
+Resurs-P3,472,97.28
+RISat-1 (Radar Imaging Satellite 1),541,97.6
+RISat-2 (Radar Imaging Satellite 2),427,41.22
+RISESAT (Rapid International Scientific Experiment Satellite),513,97.3
+Rising-2,630,97.88
+Robusta-1B (Radiation on Bipolar Test for University Satellite Application),512,97.45
+Rodnik (Cosmos 2416,1,1
+Rodnik (Cosmos 2437,1,1
+Rodnik (Cosmos 2438,1,1
+Rodnik (Cosmos 2439,1,1
+Rodnik (Cosmos 2451,1,1
+Rodnik (Cosmos 2453,1,1
+Rodnik (Cosmos 2467,1,1
+Rodnik (Cosmos 2468,1,1
+Rodnik (Cosmos 2481,1,1
+Rodnik (Cosmos 2482,1,1
+Rodnik (Cosmos 2483,1,1
+Rodnik (Cosmos 2484,1,1
+Rodnik (Cosmos 2488,1,1
+Rodnik (Cosmos 2489,1,1
+Rodnik (Cosmos 2490,1,1
+Rodnik (Cosmos 2496,1,1
+Rodnik (Cosmos 2497,1,1
+Rodnik (Cosmos 2498,1,1
+Rodnik (Cosmos 2507,1,1
+Rodnik (Cosmos 2508,1,1
+Rodnik (Cosmos 2509,1,1
+Rodnik (Cosmos 2530,1,1
+Rodnik (Cosmos 2531,1,1
+Rodnik (Cosmos 2532,1,1
+RS-47 (Cosmos 2499),152,503
+RSat-P (Repair Satellite-Prototype),589,85.03
+Rumba (part of Cluster quartet,17,120
+S5,53,63
+Salsa (part of Cluster quartet,21,110
+Samba (part of Cluster quartet,22,110
+SAOCOM-1A (Sat�lite Argentino de Observaci�n Con Microondas),633,98
+Sapphire (Space Surveillance Mission of Canada),787,132.98
+SARAL (Satellite with ARGOS and ALTIKA),785,98.5
+SAR-Lupe 1,505,98.2
+SAR-Lupe 2,503,98.19
+SAR-Lupe 3,496,98.17
+SAR-Lupe 4,486,98.16
+SAR-Lupe 5,502,98.16
+Sathyabamasat,517,97.5
+Saudicomsat-1,747,98
+Saudicomsat-2 ,780,98.1
+Saudicomsat-3,714,97.8
+Saudicomsat-4,746,97.8
+Saudicomsat-5,725,97.8
+Saudicomsat-6,758,97.8
+Saudicomsat-7,736,97.8
+Saudisat 1C (Oscar 50,0,702
+Saudisat-2 ,734,97.9
+Saudisat-3 ,677,97.8
+Saudisat-4,613,0.00492
+Saudisat-5A,533,0.0013
+Saudisat-5B,532,0.00137
+SBIRS GEO 1 (Space Based Infrared System Geosynchronous 1,35,35
+SBIRS GEO 2 (Space Based Infrared System Geosynchronous 2,35,35
+SBIRS GEO 3 (Space Based Infrared System Geosynchronous 3,35,35
+SBIRS GEO 4 (Space Based Infrared System Geosynchronous 4,35,35
+SBSS-1 (Space Based Space Surveillance Satellite,0,634
+ScatSat-1,731,98.1
+SCD-1 (Sat�lite de Coleta de Dados),776,25
+SCD-2 (Sat�lite de Coleta de Dados),760,25
+Scisat-1 (Atmospheric Chemistry Experiment),649,73.9
+SDO (Solar Dynamics Observatory),779,791
+SDS III-4 (Satellite Data System) (NRO L-1,0,39
+SDS III-5 (Satellite Data System) (NRO L-24,0,39
+SDS III-6 (Satellite Data System) NRO L-27,131.1,770
+SDS III-7 (Satellite Data System) NRO L-38,-10.1,771
+SDS III-8 (Satellite Data System) NRO L-33,170.1,500
+SDS-4 (Small Demonstration Satellite-4),673,98.2
+Seahawk-1,587,97.7
+SEEDS 2,627,97.8
+SeeMe (Space Enabled Effects for Military Engagements satellite),590,97.8
+Sentinel  3B,815,98.6
+Sentinel 1A,693,98.16
+Sentinel 1B,697,98.1
+Sentinel 2A,788,98.5
+Sentinel 2B,779,98.5
+Sentinel 3A,804,98.6
+Sentinel 5P (Sentinel 5 Precursor),819,98.7
+SES-1 (AMC-4R),781,793
+SES-10,777,799
+SES-11/EchoStar 105,35,35
+SES-12,785,785
+SES-14,785,785
+SES-15,777,777
+SES-2,778,798
+SES-3,850,852
+SES-4,781,792
+SES-5 (Sirius 5,35,35
+SES-6,757,816
+SES-7 (Protostar 2,35,35
+SES-8,777,795
+SES-9,787,791
+SGDC (Geostationary Satellite for Communications and Defense),775,798
+Shaonian Xing (Youth Star),507,97.3
+SHARC (Spacecraft for High Accuracy Radar Calibration),406,51.6
+SHFT (Space-based High Frequency Testbed,495,0.00116
+Shields 1,594,85.03
+Shijian 11-01 (SJ-11-01),703,98.1
+Shijian 11-02 (SJ-11-02),704,98.2
+Shijian 11-03 (SJ-11-03),703,98.2
+Shijian 11-05 (SJ-11-05),704,98.1
+Shijian 11-06 (SJ-11-06),704,98.26
+Shijian 11-07 (SJ-11-07),705,98.12
+Shijian 11-08 (SJ-11-08),705,98.2
+Shijian 12 (SJ-12),601,97.7
+Shijian 13 (SJ-13),756,816
+Shijian 15 (SJ-15),673,98.06
+Shijian 16-01 (SJ-16),616,74.98
+Shijian 16-02,594,75
+Shijian 17,777,796
+Shijian 6A (SJ-6A,579,0.00194
+Shijian 6B (SJ-6B),598,97.8
+Shijian 6C (SJ-6-02A),594,97.7
+Shijian 6D (SJ-6-02B),595,97.7
+Shijian 6E (SJ6-03A,581,0.00187
+Shijian 6F (SJ6-03B,578,0.0018
+Shijian 6G (SJ6-04A),603,97.7
+Shijian 6H (SJ6_04B),602,97.7
+Shijian 7 (SJ7,534,0.00411
+Shijian 9A (SJ 9A),650,97.99
+Shijian 9B (SJ 9B),651,97.99
+Shiyan 1 (SY 1,0,601
+Shiyan 3 (SY3,785,0.00126
+Shiyan 4 (SY4,784,0.00126
+Shiyan 5 (SY5,739,0.00112
+Shiyan 6 (SY6,488,0.00117
+Shiyan 7 (SY7,668,0.000284
+Sicral 1A ,769,802
+Sicral 1B,788,802
+Sicral 2/Syracuse 3C,770,800
+Sinah-1 (Sina 1,681,0.00156
+SINOD D-1,800,64.78
+SINOD D-3,800,64.78
+Sinosat-6 (Chinasat-6A,35,35
+Sirius 1 (SD Radio 1),783,100
+Sirius 2 (SD Radio 2),849,48
+Sirius 3 (SD Radio 3),179,86
+Sirius 4 (Astra 4A),776,795
+Sirius FM-5,774,798
+Sirius FM-6,785,791
+Sirius XM-5,779,795
+SiriusSat-1,404,51.6
+SiriusSat-2,408,51.6
+skCube,512,97.45
+Sky Mexico-1,788,800
+Sky Muster 1 (NBN-1A),744,777
+Sky Muster 2 (NBN-1B),790,798
+SkyBrasil-1 (Intelsat 32E),785,787
+Skynet 4C ,775,797
+Skynet 4E ,774,797
+Skynet 4F ,773,801
+Skynet 5A,771,802
+Skynet 5B,700,803
+Skynet 5C,770,803
+Skynet 5D,786,793
+SkySat-1,567,0.0023
+Skysat-10 (Skysat C8,0,526
+Skysat-11 (Skysat C9,0,528
+Skysat-12 (Skysat C10,0,528
+Skysat-13 (Skysat C11,0,528
+Skysat-14 (Skysat C12,0,588
+Skysat-15 (Skysat C13,0,590
+SkySat-2 (Skysat S2),626,0.000571
+Skysat-4 (Skysat C4,0,502
+Skysat-5 (Skysat C5,0,502
+Skysat-6 (Skysat C2,0,506
+Skysat-7 (Skysat C3,0,502
+Skysat-8 (Skysat C6,0,526
+Skysat-9 (Skysat C7,0,526
+SkyTerra 1,782,791
+SLATS (Super Low Altitude Test Satellite,457,0.0123
+SLDCOM-3 (Satellite Launch Dispenser Communications System) (USA 119),200,600
+SMAP (Soil Moisture Active Passive Satellite),686,98.13
+SMDC-ONE 1.1 (Techsat),791,64.6
+SMDC-ONE 1.2 (ORSES [Operationally Responsive Space Enabler Satellite]),789,64.6
+SMDC-ONE 2.3,886,120.3
+SMDC-ONE 2.4,886,120.3
+SMOS (Soil Moisture and Ocean Salinity satellite),760,98.4
+SNaP-3 Alice,801,64.78
+SNaP-3 Eddie,801,64.78
+SNaP-3 Jimi,801,64.78
+SNaP-3-1��(Space and Missile Defense Command NanoSat Program),886,120.3
+S-Net-1,588,97.7
+S-Net-2,588,97.7
+S-Net-3,588,97.7
+S-Net-4,588,97.7
+SNUGLITE,591,97.7
+SNUSat-2,588,97.7
+SOCRATES��(Space Optical Communications Research Advanced TEchnology Satellite),629,97.87
+SOHLA 1 (Space Oriented Higashiosaka Leading Association,657,0.000569
+SORCE (SOlar Radiation and Climate Experiment),600,0.00236
+South Asia Satellite (GSAT 9),775,798
+SpaceBEE-1,505,97.5
+SpaceBEE-2,505,97.5
+SpaceBEE-3,505,97.5
+SpaceBEE-4,505,97.5
+SpaceBEE-5,590,97.7
+SpaceBEE-6,589,97.7
+SpaceBEE-7,589,97.7
+Spacecube (QB50-FR05),403,51.6
+Spaceway 3,785,787
+Spaceway F1,35,35
+Spaceway F2,35,35
+Spainsat,745,826
+Spark-1,725,98.15
+Spark-2,727,98.15
+SPATIUM-I,406,51.6
+Spektr-R/RadioAstron,0,0
+SPIRALE-A (Syst�me Pr�paratoire Infra-Rouge pour l'Alerte),31,0.702
+SPIRALE-B (Syst�me Pr�paratoire Infra-Rouge pour l'Alerte),17,0.558
+Spot 6 (Syst�me Probatoire d�Observation de la Terre),699,98.2
+Spot 7 (Syst�me Probatoire d�Observation de la Terre),660,98.2
+SPROUT��(SPace Research On Unique Technology),629,97.87
+SRMSat (Sri Ramaswamy Memorial Satellite),868,20
+SSOT (Sistema Satelital para la Observaci�n de la Tierra),624,98
+SSTL-S1-4 ,591,97.8
+ST-2 (Singapore-Taiwan 2),783,791
+Star One C1,703,778
+Star One C2,776,796
+Star One C3,791,848
+Star One C4,786,801
+Star One D1,741,777
+StarLink Demo 1 (Microsat-2a,500,0.00116
+StarLink Demo 2 (Microsat-2b Tintin-B),515,97.4
+STARS-1 Kukai ,667,98.03
+Step Cube Lab (Space Technology Experimental Project CubeSat Laboratory),505,97.5
+STF-1 (Simulation-to-Flight-1),512,85.04
+STPSat-3 (Space Test Program Satellite-3) ,507,40.51
+STPSat-5 (Space Test Program Satellite-5),591,97.7
+STRaND-1 (Surrey Training,772,0.000769
+Strela 3 (Cosmos 2385),417,425
+Strela 3 (Cosmos 2386),415,419
+Strela 3 (Cosmos 2390),468,506
+Strela 3 (Cosmos 2391),466,506
+Strela 3 (Cosmos 2400),467,503
+Strela 3 (Cosmos 2401),465,502
+Strela 3 (Cosmos 2408),471,495
+Strela 3 (Cosmos 2409),474,495
+STSat-2C,1,0.0815
+STSS ATRR (Space Tracking and Surveillance System Advanced Technology Risk Reduction Satellite,867,0.000828
+STSS Demo-1 (Space Tracking and Surveillance System Demonstrator),347,352
+STSS Demo-2 (Space Tracking and Surveillance System Demonstrator),339,351
+Suchai (Satellite of the University of Chile for Aerospace Investigation),512,97.45
+Suomi-100,589,97.7
+Superbird 7 (Superbird C2),778,794
+Superbird 8/DSN-1 (Kirameki 1),774,799
+Superview 1-01 (GaoJing 1-01),525,97.6
+Superview 1-02 (GaoJing 1-02),548,97.6
+Superview 1-03 (GaoJing 1-03),535,97.5
+Superview 1-04  (GaoJing 1-04),534,97.5
+Surfsat ,468,93.04
+SWARM-A,476,87.3
+SWARM-B,476,87.3
+SWARM-C,496,87.5
+Swayam,500,0.00131
+Swift ,590,20.6
+SwissCube,720,98.3
+Syracuse 3A (Systeme de Radio Communications Utilisant un Satellite),778,792
+Syracuse 3B (Systeme de Radio Communications Utilisant un Satellite),772,801
+TacSat 4,11,0.443
+TacSat 6,886,120.3
+TanDEM-X (TerraSAR-X add-on for Digital Elevation Measurement),510,97.4
+Tangguo Guan (Candy Can),940,99.4
+Tango (part of Cluster quartet,17,120
+TanSat (Tan Weixing,690,0.00198
+Tanyusha No. 3 (Radioskaf 8),407,51.6
+Tanyusha No. 4 (Radioskaf 9),408,51.6
+TDRS-10 (Tracking and Data Relay Satellite,35,35
+TDRS-11 (Tracking and Data Relay Satellite,35,35
+TDRS-12 (Tracking and Data Relay Satellite,35,35
+TDRS-13 (Tracking and Data Relay Satellite,35,35
+TDRS-3 (Tracking and Data Relay Satellite,35,35
+TDRS-5 (Tracking and Data Relay Satellite,35,35
+TDRS-6 (Tracking and Data Relay Satellite,35,35
+TDRS-7 (Tracking and Data Relay Satellite,35,35
+TDRS-8 (Tracking and Data Relay Satellite,35,35
+TDRS-9 (Tracking and Data Relay Satellite,35,35
+TechDemoSat-1,631,98.4
+TechEdSat-8 (Technical Education Satellite 8),409,51.6
+Technosat,605,97.6
+TecSAR (Ofeq 8,405,0.0128
+TeLEOS 1,550,15
+Telkom 2,781,793
+Telkom 3S,780,795
+Telstar 11N,35,35
+Telstar 12 (Orion 2),773,799
+Telstar 12V (Telstar 12 Vantage),35,35
+Telstar 14R (Estrela do Sul 2),35,35
+Telstar 18 (Apstar 5),778,795
+Telstar 18 VANTAGE (Apstar 5C),35,35
+Telstar 19 Vantage,35,35
+TEMPEST-D,407,51.63
+Ten-Koh,613,97.8
+TerraSAR-X�1 (Terra Synthetic Aperture Radar X-Band),509,97.5
+TerraStar 1,783,791
+TESS (Transiting Exoplanet Survey Satellite),268,0.953
+TET-1 (Technologieerprobungstr�ger 1,501,0.000291
+Thaicom-4 (Ipstar 1,35,35
+Thaicom-5,777,796
+Thaicom-6,786,796
+Thaicom-8,843,890
+THEA ,571,0.00129
+THEOS (Thailand Earth Observation System),826,98.7
+Thor-3 ,777,795
+Thor-5 (Thor 2R),773,798
+Thor-6,779,794
+Thor-7,727,741
+Thuraya 2 ,764,807
+Thuraya 3,766,807
+Tiangong-2,396,43
+Tianhui 1-01,504,97.4
+Tianhui 1-02,505,97.4
+Tianhui 1-03,500,97.36
+Tiankun-1,406,96.9
+TianLian 1 (TL-1-01,35,35
+TianLian 2 (TL-1-02,37,37
+TianLian 2-01 (TL-2-01,35,35
+TianLian 3 (TL-1-03,35,35
+TianLian 4 (TL-1-04,35,35
+Tiantong-1-01,765,805
+Tiantuo-2,493,97.42
+Tiantuo-3 (Luliang 1),522,97.42
+Tianwang 1A (TW-1A,0,484
+Tianwang 1C (TW-1C; NJFA-1),486,97.31
+TianYi-2 (Xiaoxiang 2),547,97.5
+TianYi-6 (Quantutong 1),545,97.5
+Tianzhi-1,504,97.4
+TIGRISat,698,97.98
+TIMED (Thermosphere � Ionosphere � Mesosphere � Energetics and Dynamics),612,7.16E-05
+TJS-1 (Tongxin Jishu Shiyan 1),776,795
+TJS-2 (Tongxin Jishu Shiyan 2),783,793
+TJS-3 (Tongxin Jishu Shiyan 3),779,794
+TJS-3 Subsatellite,779,794
+TKSat-1 (T�pac Katari Satellite 1),773,799
+Toki (Bird JJ),402,51.6
+Trumpet 3 (NROL-4,0,210
+Tselina-2 (Cosmos 2428),858,71
+TSUBAME,505,0.00463
+TUGSat-1��(Technische Universit�t Graz Satellit,0,784
+Turkmen Alem 52E/MonacoSAT,655,784
+Turksat 3A,778,793
+Turksat 4A,776,797
+Turksat 4B,787,805
+Tyvak-53b,497,0.00138
+Tyvak-61c,493,0.000801
+UCLSat (University College London Satellite,496,0.00124
+UFO-10 (USA 146,35,35
+UFO-11  (USA 174) UHF Follow-On,786,787
+UFO-2 (USA 95) UHF Follow-On,766,807
+UFO-4 (USA 108,35,35
+UFO-6 (USA 114,35,35
+UFO-8 (USA 138,35,35
+UiTMSAT-1 (Birds-2),408,51.6
+UK-DMC-2 (BNSCSat-2,660,0.000142
+UKube-1 (UK Cubesat 1),631,98.4
+UNIFORM 1��(UNiversity International FORmation Mission 1),629,97.87
+UNITE (Undergraduate Nano Ionospheric Temperature Explorer),407,51.6
+Ursa Maior ((University of Rome la SApienza MicroAttitude In ORbit testing,496,0.00116
+UWE-3 (University of W�rzburg Experimental Satellite 3),700,97.8
+UWE-4 (University of W�rzburg Experimental Satellite 4),585,97.7
+Van Allen Probe A (RBSP-A,591,534
+Van Allen Probe B (RBSP-B,595,657
+Velox 1,655,98.25
+Velox 2,550,14.98
+Velox C1,550,14.98
+Ven�s,724,98.3
+VeneSat 1 (Simon Bolivar),777,796
+Venta-1,508,97.45
+ViaSat-1,35,35
+ViaSat-2,35,35
+Vinasat 1,782,791
+Vinasat 2,742,776
+VNREDSat 1A��(Vietnam Natural Resources Environment and Disaster monitoring small Satellite),685,98.13
+VRSS-1 (Venezuelan Remote Sensing Satellite,622,0.00228
+VRSS-2 (Antonio Jose de Sucre),654,98.02
+VZLUSat-1 (QB50 CZ02),515,97.45
+Weina-1A,601,35
+Wideband Global Satcom 1 (WGS-1,35,35
+Wideband Global Satcom 10 (WGS-10,35,35
+Wideband Global Satcom 2 (WGS-2,35,35
+Wideband Global Satcom 3 (WGS-3,35,35
+Wideband Global Satcom 4 (WGS-4,35,35
+Wideband Global Satcom 5 (WGS-5,35,35
+Wideband Global Satcom 6 (WGS-6,35,35
+Wideband Global Satcom 7 (WGS-7,35,35
+Wideband Global Satcom 8 (WGS-8,35,35
+Wideband Global Satcom 9 (WGS-9,35,35
+WildBlue 1,776,796
+WNISat-1 (Weather News Inc. Satellite 1),594,0.018
+WNISat-1R (Weather News Inc. Satellite 1R),586,0.00144
+Worldview 1,494,97.3
+Worldview 2,767,98.5
+Worldview 3,614,97.99
+Worldview 4,620,98
+X37-B OTV-5 (USA 277),322,38
+Xiaoxiang-1 ,538,97.5
+Xinyan 1 (XY-1),501,97.35
+XJS-A (Xin jishu shiyan A xing),486,35
+XJS-B (Xin jishu shiyan B xing),486,35
+XM Radio 3 (Rhythm),782,790
+XM Radio 4 (Blues),784,787
+XMM Newton (High Throughput X-ray Spectroscopy Mission),79,27
+XPNav-1,513,97.4
+X-Sat,823,98.7
+XTAR-EUR,778,792
+XW-2A (CAS-3A),535,97.46
+XW-2B (CAS-3B),539,97.46
+XW-2C (CAS-3C),538,97.46
+XW-2D (CAS-3D),539,97.46
+XW-2F (CAS-3F),540,97.46
+XY-S1 (Xingyun Shiyan-1),541,97.54
+Yahsat-1A (Y1A),743,823
+Yahsat-1B (Y1B),780,791
+Yamal-202 ,774,796
+Yamal-300K,694,866
+Yamal-401,761,822
+Yamal-402,784,789
+Yaogan 10 (Remote Sensing Satellite 10),628,97.8
+Yaogan 11 (Remote Sensing Satellite 11),668,97.9
+Yaogan 12 (Remote Sensing Satellite 12),496,97.4
+Yaogan 13 (Remote Sensing Satellite 13),507,97.4
+Yaogan 14 (Remote Sensing Satellite 14),481,97.3
+Yaogan 15 (Remote Sensing Satellite 15),201,207
+Yaogan 16A (Remote Sensing Satellite 16A,1,1
+Yaogan 16B (Remote Sensing Satellite 16B),79,90
+Yaogan 16C (Remote Sensing Satlelite 16C),32,81
+Yaogan 17A (Remote Sensing Satellite 17A,1,1
+Yaogan 17B (Remote Sensing Satellite 17B),80,111
+Yaogan 17C (Remote Sensing Satellite 17C),1,0.0151
+Yaogan 18 (Remote Sensing Satellite 18),513,97.54
+Yaogan 19 (Remote Sensing Satellite 19),201,207
+Yaogan 20A (Remote Sensing Satellite 20A),85,95
+Yaogan 20B (Remote Sensing Satellite 20B),87,93
+Yaogan 20C (Remote Sensing Satellite 20C),87,94
+Yaogan 21 (Remote Sensing Satellite 21),494,97.42
+Yaogan 22 (Remote Sensing Satellite 22),196,209
+Yaogan 23 (Remote Sensing Satellite 23),513,97.33
+Yaogan 24 (Remote Sensing Satellite 24),653,97.91
+Yaogan 25A (Remote Sensing Satellite 25A),89,97
+Yaogan 25B (Remote Sensing Satellite 25B),83,93
+Yaogan 25C (Remote Sensing Satellite 25C),92,113
+Yaogan 26 (Remote Sensing Satellite 26),491,97.44
+Yaogan 27 (Remote Sensing Satellite 27),201,213
+Yaogan 28 (Remote Sensing Satellite 28),482,97.24
+Yaogan 29 (Remote Sensing Satellite 29),629,97.85
+Yaogan 30 (Remote Sensing Satellite 30),656,98.07
+Yaogan 30-1-1 (Remote Sensing Satellite 30-1-1),599,35
+Yaogan 30-1-2 (Remote Sensing Satellite 30-1-2),599,35
+Yaogan 30-1-3 (Remote Sensing Satellite 30-1-3),599,35
+Yaogan 30-2-1 (Remote Sensing Satellite 30-2-1),603,35
+Yaogan 30-2-2 (Remote Sensing Satellite 30-2-2),603,35
+Yaogan 30-2-3 (Remote Sensing Satellite 30-2-3),603,35
+Yaogan 30-3-1 (Remote Sensing  Satellite 30-3-1),602,35
+Yaogan 30-3-2 (Remote Sensing Satellite 30-3-2),602,35
+Yaogan 30-3-3 (Remote Sensing Satellite 30-3-3),602,35
+Yaogan 30-4-1 (Remote Sensing Satellite 30-4-1),601,35
+Yaogan 30-4-2 (Remote Sensing Satellite 30-4-2),601,35
+Yaogan 30-4-3 (Remote Sensing Satellite 30-4-3),602,35
+Yaogan 31-1-3 (Remote Sensing Satellite 31-1-3),87,98
+Yaogan 4 (Remote Sensing Satellite 4),658,97.8
+Yaogan 6 (Remote Sensing Satellite 6,511,7.27E-05
+Yaogan 7 (Remote Sensing Satellite 7),665,98
+Yaogan 8 (Remote Sensing Satellite 8),192,205
+Yaogan 9A (Remote Sensing Satellite 9A),17,164
+Yaogan 9B (Remote Sensing Satellite 9B),17,164
+Yaogan 9C (Remote Sensing Satellite 9C),17,164
+Yaogan-31-1-1 (Remote Sensing Satellite  31-1-1),86,99
+Yaogan-31-1-2 (Remote Sensing Satellite  31-1-2),88,99
+Yaogan-32-1-1 (Remote Sensing Satellite 32-1-1),704,98.2
+Yaogan-32-1-2 (Remote Sensing Satellite 32-1-2),698,98.2
+Youthsat,824,98.7
+Yubileiny (Jubilejnyj,1,1
+Yunhai-1,798,98.35
+Yunhai-2 01,524,50
+Yunhai-2 02,523,50
+Yunhai-2 03,524,50
+Yunhai-2 04,88,97
+Yunhai-2 05,90,98
+Yunhai-2 06,92,98
+ZA-Aerosat (QB50 - AZ01),403,51.6
+ZACUBE-1 (TshepisoSAT),633,97.6
+ZACUBE-2,508,97.3
+Zhangguo Ziyuan 2C (ZY-2C,555,0.00367
+Zhangheng 1 (CSES,488,0.00153
+Zheda Pixing 1B (ZP-1B,619,0.00243
+Zheda Pixing 1C (ZP-1C,620,0.00235
+Zheda Pixing 2A (ZP-2A,517,0.00123
+Zheda Pixing 2B (ZP-2B,517,0.00131
+Zhongxing 10 (XZ-10,35,35
+Zhongxing 11 (ChinaSat 11),781,793
+Zhongxing 1A (Chinasat 1A,35,35
+Zhongxing 1C (ChinaSat 1C),778,796
+Zhongxing 20A ,773,799
+Zhongxing 2A (Chinasat 2A),781,792
+Zhongxing 2C (ChinaSat 2C),787,801
+Zhongxing 2D (Chinasat 2D),781,793
+Zhongxing 6B (ChinaSat 6B),777,797
+Zhongxing 6C (ChinaSat 6C),777,792
+Zhongxing 9 (Chinasat 9,35,35
+Zhongxing 9A (ChinaSat 9A),773,800
+Zhu
