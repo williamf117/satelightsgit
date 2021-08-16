@@ -1,0 +1,6 @@
+a simulation that uses real data to spawn satellites and simulat them using the phisics equations for gravity and orbital velocty. 
+Controles 
+WASD to pan the camra 
+Q and E to zoom 
+F1 and F2 to speed up or slow down the simulation 
+esc to close the applicaiton 
